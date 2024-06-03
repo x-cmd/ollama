@@ -1,2 +1,2 @@
 x jina 'https://ollama.com/library' | \
-    @gemini 'Please reoggranize all of the models in the detailed csv form, header is model,size,pulls,updated,description. notice the description may contains comma, so the value should be quoted with double quote. notice the model name should be uniq. If model contains multiple size, it should be like 7b/13b' 
+    @gemini 'Please reoggranize all of the models in the detailed csv form, header is model,size,tags,pulls,updated,description. notice the description may contains comma, so the value should be quoted with double quote. notice the model name should be uniq. If model contains multiple size, it should be like 7b/13b'
