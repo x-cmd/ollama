@@ -1,0 +1,5 @@
+
+x ccmd 1d -- curl https://craigahobbs.github.io/ollama-chat/models/models.json | \
+    xw gen.deno.ts >$(x wsroot)/data/model.csv
+
+
