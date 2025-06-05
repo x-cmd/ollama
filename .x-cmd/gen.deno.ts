@@ -11,10 +11,10 @@ while (true) {
 const obj = JSON.parse( data )
 
 const csv = obj.map(item => {
-  const variants = item.variants.map(v => [item.name, v.id, v.size, "", item.downloads, item.modified, item.description].join(","));
+  const variants = item.variants.map(v => [item.name, v.size, "", item.downloads, item.modified, item.description].join(","));
   return variants.join("\n");
 }).join("\n");
 
-console.log("model,id,size,tags,pulls,updated,description")
+console.log("model,size,tags,pulls,updated,description")
 console.log(csv);
 

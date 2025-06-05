@@ -1,325 +1,325 @@
-model,id,size,tags,pulls,updated,description
-alfred,alfred:40b,40b,,17100,2025-06-04,A robust conversational model designed to be used for both chat and instruct use cases.
-all-minilm,all-minilm:22m,22m,,544400,2025-06-04,Embedding models on very large sentence level datasets.
-all-minilm,all-minilm:33m,33m,,544400,2025-06-04,Embedding models on very large sentence level datasets.
-athene-v2,athene-v2:72b,72b,,82300,2024-12-06,Athene-V2 is a 72B parameter model which excels at code completion, mathematics, and log extraction tasks.
-aya,aya:8b,8b,,144500,2025-06-04,Aya 23, released by Cohere, is a new family of state-of-the-art, multilingual models that support 23 languages.
-aya,aya:35b,35b,,144500,2025-06-04,Aya 23, released by Cohere, is a new family of state-of-the-art, multilingual models that support 23 languages.
-aya-expanse,aya-expanse:8b,8b,,63900,2024-11-06,Cohere For AI's language models trained to perform well across 23 different languages.
-aya-expanse,aya-expanse:32b,32b,,63900,2024-11-06,Cohere For AI's language models trained to perform well across 23 different languages.
-bakllava,bakllava:7b,7b,,119000,2025-06-04,BakLLaVA is a multimodal model consisting of the Mistral 7B base model augmented with the LLaVA  architecture.
-bespoke-minicheck,bespoke-minicheck:7b,7b,,27300,2024-10-07,A state-of-the-art fact-checking model developed by Bespoke Labs.
-bge-large,bge-large:335m,335m,,105000,2024-08-08,Embedding model from BAAI mapping texts to vectors.
-bge-m3,bge-m3:567m,567m,,1200000,2024-08-08,BGE-M3 is a new model from BAAI distinguished for its versatility in Multi-Functionality, Multi-Linguality, and Multi-Granularity.
-codebooga,codebooga:34b,34b,,33000,2025-06-04,A high-performing code instruct model created by merging two existing code models.
-codegeex4,codegeex4:9b,9b,,145400,2024-07-09,A versatile model for AI software development scenarios, including code completion.
-codegemma,codegemma:2b,2b,,618500,2024-08-08,CodeGemma is a collection of powerful, lightweight models that can perform a variety of coding tasks like fill-in-the-middle code completion, code generation, natural language understanding, mathematical reasoning, and instruction following.
-codegemma,codegemma:7b,7b,,618500,2024-08-08,CodeGemma is a collection of powerful, lightweight models that can perform a variety of coding tasks like fill-in-the-middle code completion, code generation, natural language understanding, mathematical reasoning, and instruction following.
-codellama,codellama:7b,7b,,2100000,2024-08-08,A large language model that can use text prompts to generate and discuss code.
-codellama,codellama:13b,13b,,2100000,2024-08-08,A large language model that can use text prompts to generate and discuss code.
-codellama,codellama:34b,34b,,2100000,2024-08-08,A large language model that can use text prompts to generate and discuss code.
-codellama,codellama:70b,70b,,2100000,2024-08-08,A large language model that can use text prompts to generate and discuss code.
-codeqwen,codeqwen:7b,7b,,147000,2024-07-09,CodeQwen1.5 is a large language model pretrained on a large amount of code data.
-codestral,codestral:22b,22b,,298400,2024-09-07,Codestral is Mistral AI’s first-ever code model designed for code generation tasks.
-codeup,codeup:13b,13b,,41500,2025-06-04,Great code generation model based on Llama2.
-cogito,cogito:3b,3b,,101100,2025-05-05,Cogito v1 Preview is a family of hybrid reasoning models by Deep Cogito that outperform the best available open models of the same size, including counterparts from LLaMA, DeepSeek, and Qwen across most standard benchmarks.
-cogito,cogito:8b,8b,,101100,2025-05-05,Cogito v1 Preview is a family of hybrid reasoning models by Deep Cogito that outperform the best available open models of the same size, including counterparts from LLaMA, DeepSeek, and Qwen across most standard benchmarks.
-cogito,cogito:14b,14b,,101100,2025-05-05,Cogito v1 Preview is a family of hybrid reasoning models by Deep Cogito that outperform the best available open models of the same size, including counterparts from LLaMA, DeepSeek, and Qwen across most standard benchmarks.
-cogito,cogito:32b,32b,,101100,2025-05-05,Cogito v1 Preview is a family of hybrid reasoning models by Deep Cogito that outperform the best available open models of the same size, including counterparts from LLaMA, DeepSeek, and Qwen across most standard benchmarks.
-cogito,cogito:70b,70b,,101100,2025-05-05,Cogito v1 Preview is a family of hybrid reasoning models by Deep Cogito that outperform the best available open models of the same size, including counterparts from LLaMA, DeepSeek, and Qwen across most standard benchmarks.
-command-a,command-a:111b,111b,,16200,2025-04-05,111 billion parameter model optimized for demanding enterprises that require fast, secure, and high-quality AI
-command-r,command-r:35b,35b,,297000,2024-09-07,Command R is a Large Language Model optimized for conversational interaction and long context tasks.
-command-r-plus,command-r-plus:104b,104b,,127000,2024-09-07,Command R+ is a powerful, scalable large language model purpose-built to excel at real-world enterprise use cases.
-command-r7b,command-r7b:7b,7b,,35400,2025-02-04,The smallest model in Cohere's R series delivers top-tier speed, efficiency, and quality to build powerful AI applications on commodity GPUs and edge devices.
-command-r7b-arabic,command-r7b-arabic:7b,7b,,6450,2025-03-06,A new state-of-the-art version of the lightweight Command R7B model that excels in advanced Arabic language capabilities for enterprises in the Middle East and Northern Africa.
-dbrx,dbrx:132b,132b,,19400,2025-06-04,DBRX is an open, general-purpose LLM created by Databricks.
-deepcoder,deepcoder:1.5b,1.5b,,133100,2025-05-05,DeepCoder is a fully open-Source 14B coder model at O3-mini level, with a 1.5B version also available.
-deepcoder,deepcoder:14b,14b,,133100,2025-05-05,DeepCoder is a fully open-Source 14B coder model at O3-mini level, with a 1.5B version also available.
-deepscaler,deepscaler:1.5b,1.5b,,81400,2025-03-06,A fine-tuned version of Deepseek-R1-Distilled-Qwen-1.5B that surpasses the performance of OpenAI’s o1-preview with just 1.5B parameters on popular math evaluations.
-deepseek-coder,deepseek-coder:1.3b,1.3b,,745100,2025-06-04,DeepSeek Coder is a capable coding model trained on two trillion code and natural language tokens.
-deepseek-coder,deepseek-coder:6.7b,6.7b,,745100,2025-06-04,DeepSeek Coder is a capable coding model trained on two trillion code and natural language tokens.
-deepseek-coder,deepseek-coder:33b,33b,,745100,2025-06-04,DeepSeek Coder is a capable coding model trained on two trillion code and natural language tokens.
-deepseek-coder-v2,deepseek-coder-v2:16b,16b,,842300,2024-09-07,An open-source Mixture-of-Experts code language model that achieves performance comparable to GPT4-Turbo in code-specific tasks.
-deepseek-coder-v2,deepseek-coder-v2:236b,236b,,842300,2024-09-07,An open-source Mixture-of-Experts code language model that achieves performance comparable to GPT4-Turbo in code-specific tasks.
-deepseek-llm,deepseek-llm:7b,7b,,151300,2025-06-04,An advanced language model crafted with 2 trillion bilingual tokens.
-deepseek-llm,deepseek-llm:67b,67b,,151300,2025-06-04,An advanced language model crafted with 2 trillion bilingual tokens.
-deepseek-r1,deepseek-r1:1.5b,1.5b,,46900000,2025-06-02,DeepSeek-R1 is a family of open reasoning models with performance approaching that of leading models, such as O3 and Gemini 2.5 Pro.
-deepseek-r1,deepseek-r1:7b,7b,,46900000,2025-06-02,DeepSeek-R1 is a family of open reasoning models with performance approaching that of leading models, such as O3 and Gemini 2.5 Pro.
-deepseek-r1,deepseek-r1:8b,8b,,46900000,2025-06-02,DeepSeek-R1 is a family of open reasoning models with performance approaching that of leading models, such as O3 and Gemini 2.5 Pro.
-deepseek-r1,deepseek-r1:14b,14b,,46900000,2025-06-02,DeepSeek-R1 is a family of open reasoning models with performance approaching that of leading models, such as O3 and Gemini 2.5 Pro.
-deepseek-r1,deepseek-r1:32b,32b,,46900000,2025-06-02,DeepSeek-R1 is a family of open reasoning models with performance approaching that of leading models, such as O3 and Gemini 2.5 Pro.
-deepseek-r1,deepseek-r1:70b,70b,,46900000,2025-06-02,DeepSeek-R1 is a family of open reasoning models with performance approaching that of leading models, such as O3 and Gemini 2.5 Pro.
-deepseek-r1,deepseek-r1:671b,671b,,46900000,2025-06-02,DeepSeek-R1 is a family of open reasoning models with performance approaching that of leading models, such as O3 and Gemini 2.5 Pro.
-deepseek-v2,deepseek-v2:16b,16b,,157300,2024-07-09,A strong, economical, and efficient Mixture-of-Experts language model.
-deepseek-v2,deepseek-v2:236b,236b,,157300,2024-07-09,A strong, economical, and efficient Mixture-of-Experts language model.
-deepseek-v2.5,deepseek-v2.5:236b,236b,,54700,2024-10-07,An upgraded version of DeekSeek-V2  that integrates the general and coding abilities of both DeepSeek-V2-Chat and DeepSeek-Coder-V2-Instruct.
-deepseek-v3,deepseek-v3:671b,671b,,1400000,2025-02-04,A strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token.
-devstral,devstral:24b,24b,,97200,2025-05-28,Devstral: the best open source model for coding agents
-dolphin-llama3,dolphin-llama3:8b,8b,,326500,2025-06-04,Dolphin 2.9 is a new model with 8B and 70B sizes by Eric Hartford based on Llama 3 that has a variety of instruction, conversational, and coding skills.
-dolphin-llama3,dolphin-llama3:70b,70b,,326500,2025-06-04,Dolphin 2.9 is a new model with 8B and 70B sizes by Eric Hartford based on Llama 3 that has a variety of instruction, conversational, and coding skills.
-dolphin-mistral,dolphin-mistral:7b,7b,,350200,2025-06-04,The uncensored Dolphin model based on Mistral that excels at coding tasks. Updated to version 2.8.
-dolphin-mixtral,dolphin-mixtral:8x7b,8x7b,,578400,2025-01-05,Uncensored, 8x7b and 8x22b fine-tuned models based on the Mixtral mixture of experts models that excels at coding tasks. Created by Eric Hartford.
-dolphin-mixtral,dolphin-mixtral:8x22b,8x22b,,578400,2025-01-05,Uncensored, 8x7b and 8x22b fine-tuned models based on the Mixtral mixture of experts models that excels at coding tasks. Created by Eric Hartford.
-dolphin-phi,dolphin-phi:2.7b,2.7b,,75300,2025-06-04,2.7B uncensored Dolphin model by Eric Hartford, based on the Phi language model by Microsoft Research.
-dolphin3,dolphin3:8b,8b,,1300000,2025-02-04,Dolphin 3.0 Llama 3.1 8B 🐬 is the next generation of the Dolphin series of instruct-tuned models designed to be the ultimate general purpose local model, enabling coding, math, agentic, function calling, and general use cases.
-dolphincoder,dolphincoder:7b,7b,,89900,2025-06-04,A 7B and 15B uncensored variant of the Dolphin model family that excels at coding, based on StarCoder2.
-dolphincoder,dolphincoder:15b,15b,,89900,2025-06-04,A 7B and 15B uncensored variant of the Dolphin model family that excels at coding, based on StarCoder2.
-duckdb-nsql,duckdb-nsql:7b,7b,,35100,2025-06-04,7B parameter text-to-SQL model made by MotherDuck and Numbers Station.
-everythinglm,everythinglm:13b,13b,,41200,2025-06-04,Uncensored Llama2 based model with support for a 16K context window.
-exaone-deep,exaone-deep:2.4b,2.4b,,47000,2025-04-05,EXAONE Deep exhibits superior capabilities in various reasoning tasks including math and coding benchmarks, ranging from 2.4B to 32B parameters developed and released by LG AI Research.
-exaone-deep,exaone-deep:7.8b,7.8b,,47000,2025-04-05,EXAONE Deep exhibits superior capabilities in various reasoning tasks including math and coding benchmarks, ranging from 2.4B to 32B parameters developed and released by LG AI Research.
-exaone-deep,exaone-deep:32b,32b,,47000,2025-04-05,EXAONE Deep exhibits superior capabilities in various reasoning tasks including math and coding benchmarks, ranging from 2.4B to 32B parameters developed and released by LG AI Research.
-exaone3.5,exaone3.5:2.4b,2.4b,,79100,2025-01-05,EXAONE 3.5 is a collection of instruction-tuned bilingual (English and Korean) generative models ranging from 2.4B to 32B parameters, developed and released by LG AI Research.
-exaone3.5,exaone3.5:7.8b,7.8b,,79100,2025-01-05,EXAONE 3.5 is a collection of instruction-tuned bilingual (English and Korean) generative models ranging from 2.4B to 32B parameters, developed and released by LG AI Research.
-exaone3.5,exaone3.5:32b,32b,,79100,2025-01-05,EXAONE 3.5 is a collection of instruction-tuned bilingual (English and Korean) generative models ranging from 2.4B to 32B parameters, developed and released by LG AI Research.
-falcon,falcon:7b,7b,,75000,2025-06-04,A large language model built by the Technology Innovation Institute (TII) for use in summarization, text generation, and chat bots.
-falcon,falcon:40b,40b,,75000,2025-06-04,A large language model built by the Technology Innovation Institute (TII) for use in summarization, text generation, and chat bots.
-falcon,falcon:180b,180b,,75000,2025-06-04,A large language model built by the Technology Innovation Institute (TII) for use in summarization, text generation, and chat bots.
-falcon2,falcon2:11b,11b,,35200,2025-06-04,Falcon2 is an 11B parameters causal decoder-only model built by TII and trained over 5T tokens.
-falcon3,falcon3:1b,1b,,55400,2025-01-05,A family of efficient AI models under 10B parameters performant in science, math, and coding through innovative training techniques.
-falcon3,falcon3:3b,3b,,55400,2025-01-05,A family of efficient AI models under 10B parameters performant in science, math, and coding through innovative training techniques.
-falcon3,falcon3:7b,7b,,55400,2025-01-05,A family of efficient AI models under 10B parameters performant in science, math, and coding through innovative training techniques.
-falcon3,falcon3:10b,10b,,55400,2025-01-05,A family of efficient AI models under 10B parameters performant in science, math, and coding through innovative training techniques.
-firefunction-v2,firefunction-v2:70b,70b,,21700,2024-08-08,An open weights function calling model based on Llama 3, competitive with GPT-4o function calling capabilities.
-gemma,gemma:2b,2b,,4600000,2025-06-04,Gemma is a family of lightweight, state-of-the-art open models built by Google DeepMind. Updated to version 1.1
-gemma,gemma:7b,7b,,4600000,2025-06-04,Gemma is a family of lightweight, state-of-the-art open models built by Google DeepMind. Updated to version 1.1
-gemma2,gemma2:2b,2b,,5000000,2024-08-08,Google Gemma 2 is a high-performing and efficient model available in three sizes: 2B, 9B, and 27B.
-gemma2,gemma2:9b,9b,,5000000,2024-08-08,Google Gemma 2 is a high-performing and efficient model available in three sizes: 2B, 9B, and 27B.
-gemma2,gemma2:27b,27b,,5000000,2024-08-08,Google Gemma 2 is a high-performing and efficient model available in three sizes: 2B, 9B, and 27B.
-gemma3,gemma3:1b,1b,,5500000,2025-05-05,The current, most capable model that runs on a single GPU.
-gemma3,gemma3:4b,4b,,5500000,2025-05-05,The current, most capable model that runs on a single GPU.
-gemma3,gemma3:12b,12b,,5500000,2025-05-05,The current, most capable model that runs on a single GPU.
-gemma3,gemma3:27b,27b,,5500000,2025-05-05,The current, most capable model that runs on a single GPU.
-glm4,glm4:9b,9b,,133200,2024-07-09,A strong multi-lingual general language model with competitive performance to Llama 3.
-granite-code,granite-code:3b,3b,,211800,2024-09-07,A family of open foundation models by IBM for Code Intelligence
-granite-code,granite-code:8b,8b,,211800,2024-09-07,A family of open foundation models by IBM for Code Intelligence
-granite-code,granite-code:20b,20b,,211800,2024-09-07,A family of open foundation models by IBM for Code Intelligence
-granite-code,granite-code:34b,34b,,211800,2024-09-07,A family of open foundation models by IBM for Code Intelligence
-granite-embedding,granite-embedding:30m,30m,,52600,2025-01-05,The IBM Granite Embedding 30M and 278M models models are text-only dense biencoder embedding models, with 30M available in English only and 278M serving multilingual use cases.
-granite-embedding,granite-embedding:278m,278m,,52600,2025-01-05,The IBM Granite Embedding 30M and 278M models models are text-only dense biencoder embedding models, with 30M available in English only and 278M serving multilingual use cases.
-granite3-dense,granite3-dense:2b,2b,,99200,2024-12-06,The IBM Granite 2B and 8B models are designed to support tool-based use cases and support for retrieval augmented generation (RAG), streamlining code generation, translation and bug fixing.
-granite3-dense,granite3-dense:8b,8b,,99200,2024-12-06,The IBM Granite 2B and 8B models are designed to support tool-based use cases and support for retrieval augmented generation (RAG), streamlining code generation, translation and bug fixing.
-granite3-guardian,granite3-guardian:2b,2b,,19200,2024-12-06,The IBM Granite Guardian 3.0 2B and 8B models are designed to detect risks in prompts and/or responses.
-granite3-guardian,granite3-guardian:8b,8b,,19200,2024-12-06,The IBM Granite Guardian 3.0 2B and 8B models are designed to detect risks in prompts and/or responses.
-granite3-moe,granite3-moe:1b,1b,,50300,2024-12-06,The IBM Granite 1B and 3B models are the first mixture of experts (MoE) Granite models from IBM designed for low latency usage.
-granite3-moe,granite3-moe:3b,3b,,50300,2024-12-06,The IBM Granite 1B and 3B models are the first mixture of experts (MoE) Granite models from IBM designed for low latency usage.
-granite3.1-dense,granite3.1-dense:2b,2b,,96800,2025-02-04,The IBM Granite 2B and 8B models are text-only dense LLMs trained on over 12 trillion tokens of data, demonstrated significant improvements over their predecessors in performance and speed in IBM’s initial testing.
-granite3.1-dense,granite3.1-dense:8b,8b,,96800,2025-02-04,The IBM Granite 2B and 8B models are text-only dense LLMs trained on over 12 trillion tokens of data, demonstrated significant improvements over their predecessors in performance and speed in IBM’s initial testing.
-granite3.1-moe,granite3.1-moe:1b,1b,,45000,2025-02-04,The IBM Granite 1B and 3B models are long-context mixture of experts (MoE) Granite models from IBM designed for low latency usage.
-granite3.1-moe,granite3.1-moe:3b,3b,,45000,2025-02-04,The IBM Granite 1B and 3B models are long-context mixture of experts (MoE) Granite models from IBM designed for low latency usage.
-granite3.2,granite3.2:2b,2b,,105500,2025-03-06,Granite-3.2 is a family of long-context AI models from IBM Granite fine-tuned for thinking capabilities.
-granite3.2,granite3.2:8b,8b,,105500,2025-03-06,Granite-3.2 is a family of long-context AI models from IBM Granite fine-tuned for thinking capabilities.
-granite3.2-vision,granite3.2-vision:2b,2b,,90100,2025-03-06,A compact and efficient vision-language model, specifically designed for visual document understanding, enabling automated content extraction from tables, charts, infographics, plots, diagrams, and more.
-granite3.3,granite3.3:2b,2b,,88900,2025-05-05,IBM Granite 2B and 8B models are 128K context length language models that have been fine-tuned for improved reasoning and instruction-following capabilities.
-granite3.3,granite3.3:8b,8b,,88900,2025-05-05,IBM Granite 2B and 8B models are 128K context length language models that have been fine-tuned for improved reasoning and instruction-following capabilities.
-hermes3,hermes3:3b,3b,,287300,2025-01-05,Hermes 3 is the latest version of the flagship Hermes series of LLMs by Nous Research
-hermes3,hermes3:8b,8b,,287300,2025-01-05,Hermes 3 is the latest version of the flagship Hermes series of LLMs by Nous Research
-hermes3,hermes3:70b,70b,,287300,2025-01-05,Hermes 3 is the latest version of the flagship Hermes series of LLMs by Nous Research
-hermes3,hermes3:405b,405b,,287300,2025-01-05,Hermes 3 is the latest version of the flagship Hermes series of LLMs by Nous Research
-internlm2,internlm2:1m,1m,,80600,2024-09-07,InternLM2.5 is a 7B parameter model tailored for practical scenarios with outstanding reasoning capability.
-internlm2,internlm2:1.8b,1.8b,,80600,2024-09-07,InternLM2.5 is a 7B parameter model tailored for practical scenarios with outstanding reasoning capability.
-internlm2,internlm2:7b,7b,,80600,2024-09-07,InternLM2.5 is a 7B parameter model tailored for practical scenarios with outstanding reasoning capability.
-internlm2,internlm2:20b,20b,,80600,2024-09-07,InternLM2.5 is a 7B parameter model tailored for practical scenarios with outstanding reasoning capability.
-llama-guard3,llama-guard3:1b,1b,,40900,2024-11-06,Llama Guard 3 is a series of models fine-tuned for content safety classification of LLM inputs and responses.
-llama-guard3,llama-guard3:8b,8b,,40900,2024-11-06,Llama Guard 3 is a series of models fine-tuned for content safety classification of LLM inputs and responses.
-llama2,llama2:7b,7b,,3500000,2025-06-04,Llama 2 is a collection of foundation language models ranging from 7B to 70B parameters.
-llama2,llama2:13b,13b,,3500000,2025-06-04,Llama 2 is a collection of foundation language models ranging from 7B to 70B parameters.
-llama2,llama2:70b,70b,,3500000,2025-06-04,Llama 2 is a collection of foundation language models ranging from 7B to 70B parameters.
-llama2-chinese,llama2-chinese:7b,7b,,153800,2025-06-04,Llama 2 based model fine tuned to improve Chinese dialogue ability.
-llama2-chinese,llama2-chinese:13b,13b,,153800,2025-06-04,Llama 2 based model fine tuned to improve Chinese dialogue ability.
-llama2-uncensored,llama2-uncensored:7b,7b,,1200000,2025-06-04,Uncensored Llama 2 model by George Sung and Jarrad Hope.
-llama2-uncensored,llama2-uncensored:70b,70b,,1200000,2025-06-04,Uncensored Llama 2 model by George Sung and Jarrad Hope.
-llama3,llama3:8b,8b,,8300000,2025-06-04,Meta Llama 3: The most capable openly available LLM to date
-llama3,llama3:70b,70b,,8300000,2025-06-04,Meta Llama 3: The most capable openly available LLM to date
-llama3-chatqa,llama3-chatqa:8b,8b,,106000,2025-06-04,A model from NVIDIA based on Llama 3 that excels at conversational question answering (QA) and retrieval-augmented generation (RAG).
-llama3-chatqa,llama3-chatqa:70b,70b,,106000,2025-06-04,A model from NVIDIA based on Llama 3 that excels at conversational question answering (QA) and retrieval-augmented generation (RAG).
-llama3-gradient,llama3-gradient:8b,8b,,102200,2025-06-04,This model extends LLama-3 8B's context length from 8k to over 1m tokens.
-llama3-gradient,llama3-gradient:70b,70b,,102200,2025-06-04,This model extends LLama-3 8B's context length from 8k to over 1m tokens.
-llama3-groq-tool-use,llama3-groq-tool-use:8b,8b,,68000,2024-08-08,A series of models from Groq that represent a significant advancement in open-source AI capabilities for tool use/function calling.
-llama3-groq-tool-use,llama3-groq-tool-use:70b,70b,,68000,2024-08-08,A series of models from Groq that represent a significant advancement in open-source AI capabilities for tool use/function calling.
-llama3.1,llama3.1:8b,8b,,94500000,2024-12-06,Llama 3.1 is a new state-of-the-art model from Meta available in 8B, 70B and 405B parameter sizes.
-llama3.1,llama3.1:70b,70b,,94500000,2024-12-06,Llama 3.1 is a new state-of-the-art model from Meta available in 8B, 70B and 405B parameter sizes.
-llama3.1,llama3.1:405b,405b,,94500000,2024-12-06,Llama 3.1 is a new state-of-the-art model from Meta available in 8B, 70B and 405B parameter sizes.
-llama3.2,llama3.2:1b,1b,,18400000,2024-10-07,Meta's Llama 3.2 goes small with 1B and 3B models.
-llama3.2,llama3.2:3b,3b,,18400000,2024-10-07,Meta's Llama 3.2 goes small with 1B and 3B models.
-llama3.2-vision,llama3.2-vision:11b,11b,,2200000,2025-05-28,Llama 3.2 Vision is a collection of instruction-tuned image reasoning generative models in 11B and 90B sizes.
-llama3.2-vision,llama3.2-vision:90b,90b,,2200000,2025-05-28,Llama 3.2 Vision is a collection of instruction-tuned image reasoning generative models in 11B and 90B sizes.
-llama3.3,llama3.3:70b,70b,,1900000,2025-01-05,New state of the art 70B model. Llama 3.3 70B offers similar performance compared to the Llama 3.1 405B model.
-llama4,llama4:16x17b,16x17b,,380000,2025-05-28,Meta's latest collection of multimodal models.
-llama4,llama4:128x17b,128x17b,,380000,2025-05-28,Meta's latest collection of multimodal models.
-llava,llava:7b,7b,,6100000,2025-06-04,🌋 LLaVA is a novel end-to-end trained large multimodal model that combines a vision encoder and Vicuna for general-purpose visual and language understanding. Updated to version 1.6.
-llava,llava:13b,13b,,6100000,2025-06-04,🌋 LLaVA is a novel end-to-end trained large multimodal model that combines a vision encoder and Vicuna for general-purpose visual and language understanding. Updated to version 1.6.
-llava,llava:34b,34b,,6100000,2025-06-04,🌋 LLaVA is a novel end-to-end trained large multimodal model that combines a vision encoder and Vicuna for general-purpose visual and language understanding. Updated to version 1.6.
-llava-llama3,llava-llama3:8b,8b,,936500,2025-06-04,A LLaVA model fine-tuned from Llama 3 Instruct with better scores in several benchmarks.
-llava-phi3,llava-phi3:3.8b,3.8b,,93900,2025-06-04,A new small LLaVA model fine-tuned from Phi 3 Mini.
-magicoder,magicoder:7b,7b,,33900,2025-06-04,🎩 Magicoder is a family of 7B parameter models trained on 75K synthetic instruction data using OSS-Instruct, a novel approach to enlightening LLMs with open-source code snippets.
-marco-o1,marco-o1:7b,7b,,36500,2024-12-06,An open large reasoning model for real-world solutions by the Alibaba International Digital Commerce Group (AIDC-AI).
-mathstral,mathstral:7b,7b,,37400,2024-08-08,MathΣtral: a 7B model designed for math reasoning and scientific discovery by Mistral AI.
-meditron,meditron:7b,7b,,54900,2025-06-04,Open-source medical large language model adapted from Llama 2 to the medical domain.
-meditron,meditron:70b,70b,,54900,2025-06-04,Open-source medical large language model adapted from Llama 2 to the medical domain.
-medllama2,medllama2:7b,7b,,53400,2025-06-04,Fine-tuned Llama 2 model to answer medical questions based on an open source medical dataset.
-megadolphin,megadolphin:120b,120b,,26300,2025-06-04,MegaDolphin-2.2-120b is a transformation of Dolphin-2.2-70b created by interleaving the model with itself.
-minicpm-v,minicpm-v:8b,8b,,1700000,2024-12-06,A series of multimodal LLMs (MLLMs) designed for vision-language understanding.
-mistral,mistral:7b,7b,,14700000,2024-08-08,The 7B model released by Mistral AI, updated to version 0.3.
-mistral-large,mistral-large:123b,123b,,137700,2024-12-06,Mistral Large 2 is Mistral's new flagship model that is significantly more capable in code generation, mathematics, and reasoning with 128k context window and support for dozens of languages.
-mistral-nemo,mistral-nemo:12b,12b,,2000000,2024-08-08,A state-of-the-art 12B model with 128k context length, built by Mistral AI in collaboration with NVIDIA.
-mistral-openorca,mistral-openorca:7b,7b,,171200,2025-06-04,Mistral OpenOrca is a 7 billion parameter model, fine-tuned on top of the Mistral 7B model using the OpenOrca dataset.
-mistral-small,mistral-small:22b,22b,,895400,2025-02-04,Mistral Small 3 sets a new benchmark in the “small” Large Language Models category below 70B.
-mistral-small,mistral-small:24b,24b,,895400,2025-02-04,Mistral Small 3 sets a new benchmark in the “small” Large Language Models category below 70B.
-mistral-small3.1,mistral-small3.1:24b,24b,,122300,2025-05-05,Building upon Mistral Small 3, Mistral Small 3.1 (2503) adds state-of-the-art vision understanding and enhances long context capabilities up to 128k tokens without compromising text performance.
-mistrallite,mistrallite:7b,7b,,33500,2025-06-04,MistralLite is a fine-tuned model based on Mistral with enhanced capabilities of processing long contexts.
-mixtral,mixtral:8x7b,8x7b,,1000000,2025-01-05,A set of Mixture of Experts (MoE) model with open weights by Mistral AI in 8x7b and 8x22b parameter sizes.
-mixtral,mixtral:8x22b,8x22b,,1000000,2025-01-05,A set of Mixture of Experts (MoE) model with open weights by Mistral AI in 8x7b and 8x22b parameter sizes.
-moondream,moondream:1.8b,1.8b,,198000,2025-06-04,moondream2 is a small vision language model designed to run efficiently on edge devices.
-mxbai-embed-large,mxbai-embed-large:335m,335m,,3500000,2025-06-04,State-of-the-art large embedding model from mixedbread.ai
-nemotron,nemotron:70b,70b,,73500,2024-11-06,Llama-3.1-Nemotron-70B-Instruct is a large language model customized by NVIDIA to improve the helpfulness of LLM generated responses to user queries.
-nemotron-mini,nemotron-mini:4b,4b,,83000,2024-10-07,A commercial-friendly small language model by NVIDIA optimized for roleplay, RAG QA, and function calling.
-neural-chat,neural-chat:7b,7b,,114100,2025-06-04,A fine-tuned model based on Mistral with good coverage of domain and language.
-nexusraven,nexusraven:13b,13b,,43400,2025-06-04,Nexus Raven is a 13B instruction tuned model for function calling tasks.
-notus,notus:7b,7b,,24700,2025-06-04,A 7B chat model fine-tuned with high-quality data and based on Zephyr.
-notux,notux:8x7b,8x7b,,25600,2025-06-04,A top-performing mixture of experts model, fine-tuned with high-quality data.
-nous-hermes,nous-hermes:7b,7b,,87700,2025-06-04,General use models based on Llama and Llama 2 from Nous Research.
-nous-hermes,nous-hermes:13b,13b,,87700,2025-06-04,General use models based on Llama and Llama 2 from Nous Research.
-nous-hermes2,nous-hermes2:10.7b,10.7b,,129000,2025-06-04,The powerful family of models by Nous Research that excels at scientific discussion and coding tasks.
-nous-hermes2,nous-hermes2:34b,34b,,129000,2025-06-04,The powerful family of models by Nous Research that excels at scientific discussion and coding tasks.
-nous-hermes2-mixtral,nous-hermes2-mixtral:8x7b,8x7b,,59800,2025-01-05,The Nous Hermes 2 model from Nous Research, now trained over Mixtral.
-nuextract,nuextract:3.8b,3.8b,,29400,2024-08-08,A 3.8B model fine-tuned on a private high-quality synthetic dataset for information extraction, based on Phi-3.
-olmo2,olmo2:7b,7b,,1300000,2025-02-04,OLMo 2 is a new family of 7B and 13B models trained on up to 5T tokens. These models are on par with or better than equivalently sized fully open models, and competitive with open-weight models such as Llama 3.1 on English academic benchmarks.
-olmo2,olmo2:13b,13b,,1300000,2025-02-04,OLMo 2 is a new family of 7B and 13B models trained on up to 5T tokens. These models are on par with or better than equivalently sized fully open models, and competitive with open-weight models such as Llama 3.1 on English academic benchmarks.
-open-orca-platypus2,open-orca-platypus2:13b,13b,,25100,2025-06-04,Merge of the Open Orca OpenChat model and the Garage-bAInd Platypus 2 model. Designed for chat and code generation.
-openchat,openchat:7b,7b,,165500,2025-06-04,A family of open-source models trained on a wide variety of data, surpassing ChatGPT on various benchmarks. Updated to version 3.5-0106.
-opencoder,opencoder:1.5b,1.5b,,48700,2024-12-06,OpenCoder is an open and reproducible code LLM family which includes 1.5B and 8B models, supporting chat in English and Chinese languages.
-opencoder,opencoder:8b,8b,,48700,2024-12-06,OpenCoder is an open and reproducible code LLM family which includes 1.5B and 8B models, supporting chat in English and Chinese languages.
-openthinker,openthinker:7b,7b,,528600,2025-04-05,A fully open-source family of reasoning models built using a dataset derived by distilling DeepSeek-R1.
-openthinker,openthinker:32b,32b,,528600,2025-04-05,A fully open-source family of reasoning models built using a dataset derived by distilling DeepSeek-R1.
-orca-mini,orca-mini:3b,3b,,342200,2025-06-04,A general-purpose model ranging from 3 billion parameters to 70 billion, suitable for entry-level hardware.
-orca-mini,orca-mini:7b,7b,,342200,2025-06-04,A general-purpose model ranging from 3 billion parameters to 70 billion, suitable for entry-level hardware.
-orca-mini,orca-mini:13b,13b,,342200,2025-06-04,A general-purpose model ranging from 3 billion parameters to 70 billion, suitable for entry-level hardware.
-orca-mini,orca-mini:70b,70b,,342200,2025-06-04,A general-purpose model ranging from 3 billion parameters to 70 billion, suitable for entry-level hardware.
-orca2,orca2:7b,7b,,66800,2025-06-04,Orca 2 is built by Microsoft research, and are a fine-tuned version of Meta's Llama 2 models.  The model is designed to excel particularly in reasoning.
-orca2,orca2:13b,13b,,66800,2025-06-04,Orca 2 is built by Microsoft research, and are a fine-tuned version of Meta's Llama 2 models.  The model is designed to excel particularly in reasoning.
-paraphrase-multilingual,paraphrase-multilingual:278m,278m,,62000,2024-08-08,Sentence-transformers model that can be used for tasks like clustering or semantic search.
-phi,phi:2.7b,2.7b,,547300,2025-06-04,Phi-2: a 2.7B language model by Microsoft Research that demonstrates outstanding reasoning and language understanding capabilities.
-phi3,phi3:3.8b,3.8b,,3300000,2024-08-08,Phi-3 is a family of lightweight 3B (Mini) and 14B (Medium) state-of-the-art open models by Microsoft.
-phi3,phi3:14b,14b,,3300000,2024-08-08,Phi-3 is a family of lightweight 3B (Mini) and 14B (Medium) state-of-the-art open models by Microsoft.
-phi3.5,phi3.5:3.8b,3.8b,,281500,2024-09-07,A lightweight AI model with 3.8 billion parameters with performance overtaking similarly and larger sized models.
-phi4,phi4:14b,14b,,2500000,2025-02-04,Phi-4 is a 14B parameter, state-of-the-art open model from Microsoft.
-phi4-mini,phi4-mini:3.8b,3.8b,,166100,2025-03-06,Phi-4-mini brings significant enhancements in multilingual support, reasoning, and mathematics, and now, the long-awaited function calling feature is finally supported.
-phi4-mini-reasoning,phi4-mini-reasoning:3.8b,3.8b,,20100,2025-05-05,Phi 4 mini reasoning is a lightweight open model that balances efficiency with advanced reasoning ability.
-phi4-reasoning,phi4-reasoning:14b,14b,,68700,2025-05-05,Phi 4 reasoning and reasoning plus are 14-billion parameter open-weight reasoning models that rival much larger models on complex reasoning tasks.
-phind-codellama,phind-codellama:34b,34b,,85200,2025-06-04,Code generation model based on Code Llama.
-qwen,qwen:0.5b,0.5b,,4700000,2025-06-04,Qwen 1.5 is a series of large language models by Alibaba Cloud spanning from 0.5B to 110B parameters
-qwen,qwen:1.8b,1.8b,,4700000,2025-06-04,Qwen 1.5 is a series of large language models by Alibaba Cloud spanning from 0.5B to 110B parameters
-qwen,qwen:4b,4b,,4700000,2025-06-04,Qwen 1.5 is a series of large language models by Alibaba Cloud spanning from 0.5B to 110B parameters
-qwen,qwen:7b,7b,,4700000,2025-06-04,Qwen 1.5 is a series of large language models by Alibaba Cloud spanning from 0.5B to 110B parameters
-qwen,qwen:14b,14b,,4700000,2025-06-04,Qwen 1.5 is a series of large language models by Alibaba Cloud spanning from 0.5B to 110B parameters
-qwen,qwen:32b,32b,,4700000,2025-06-04,Qwen 1.5 is a series of large language models by Alibaba Cloud spanning from 0.5B to 110B parameters
-qwen,qwen:72b,72b,,4700000,2025-06-04,Qwen 1.5 is a series of large language models by Alibaba Cloud spanning from 0.5B to 110B parameters
-qwen,qwen:110b,110b,,4700000,2025-06-04,Qwen 1.5 is a series of large language models by Alibaba Cloud spanning from 0.5B to 110B parameters
-qwen2,qwen2:0.5b,0.5b,,4200000,2024-10-07,Qwen2 is a new series of large language models from Alibaba group
-qwen2,qwen2:1.5b,1.5b,,4200000,2024-10-07,Qwen2 is a new series of large language models from Alibaba group
-qwen2,qwen2:7b,7b,,4200000,2024-10-07,Qwen2 is a new series of large language models from Alibaba group
-qwen2,qwen2:72b,72b,,4200000,2024-10-07,Qwen2 is a new series of large language models from Alibaba group
-qwen2-math,qwen2-math:1.5b,1.5b,,128800,2024-09-07,Qwen2 Math is a series of specialized math language models built upon the Qwen2 LLMs, which significantly outperforms the mathematical capabilities of open-source models and even closed-source models (e.g., GPT4o).
-qwen2-math,qwen2-math:7b,7b,,128800,2024-09-07,Qwen2 Math is a series of specialized math language models built upon the Qwen2 LLMs, which significantly outperforms the mathematical capabilities of open-source models and even closed-source models (e.g., GPT4o).
-qwen2-math,qwen2-math:72b,72b,,128800,2024-09-07,Qwen2 Math is a series of specialized math language models built upon the Qwen2 LLMs, which significantly outperforms the mathematical capabilities of open-source models and even closed-source models (e.g., GPT4o).
-qwen2.5,qwen2.5:0.5b,0.5b,,9300000,2024-10-07,Qwen2.5 models are pretrained on Alibaba's latest large-scale dataset, encompassing up to 18 trillion tokens. The model supports up to 128K tokens and has multilingual support.
-qwen2.5,qwen2.5:1.5b,1.5b,,9300000,2024-10-07,Qwen2.5 models are pretrained on Alibaba's latest large-scale dataset, encompassing up to 18 trillion tokens. The model supports up to 128K tokens and has multilingual support.
-qwen2.5,qwen2.5:3b,3b,,9300000,2024-10-07,Qwen2.5 models are pretrained on Alibaba's latest large-scale dataset, encompassing up to 18 trillion tokens. The model supports up to 128K tokens and has multilingual support.
-qwen2.5,qwen2.5:7b,7b,,9300000,2024-10-07,Qwen2.5 models are pretrained on Alibaba's latest large-scale dataset, encompassing up to 18 trillion tokens. The model supports up to 128K tokens and has multilingual support.
-qwen2.5,qwen2.5:14b,14b,,9300000,2024-10-07,Qwen2.5 models are pretrained on Alibaba's latest large-scale dataset, encompassing up to 18 trillion tokens. The model supports up to 128K tokens and has multilingual support.
-qwen2.5,qwen2.5:32b,32b,,9300000,2024-10-07,Qwen2.5 models are pretrained on Alibaba's latest large-scale dataset, encompassing up to 18 trillion tokens. The model supports up to 128K tokens and has multilingual support.
-qwen2.5,qwen2.5:72b,72b,,9300000,2024-10-07,Qwen2.5 models are pretrained on Alibaba's latest large-scale dataset, encompassing up to 18 trillion tokens. The model supports up to 128K tokens and has multilingual support.
-qwen2.5-coder,qwen2.5-coder:0.5b,0.5b,,5500000,2025-05-28,The latest series of Code-Specific Qwen models, with significant improvements in code generation, code reasoning, and code fixing.
-qwen2.5-coder,qwen2.5-coder:1.5b,1.5b,,5500000,2025-05-28,The latest series of Code-Specific Qwen models, with significant improvements in code generation, code reasoning, and code fixing.
-qwen2.5-coder,qwen2.5-coder:3b,3b,,5500000,2025-05-28,The latest series of Code-Specific Qwen models, with significant improvements in code generation, code reasoning, and code fixing.
-qwen2.5-coder,qwen2.5-coder:7b,7b,,5500000,2025-05-28,The latest series of Code-Specific Qwen models, with significant improvements in code generation, code reasoning, and code fixing.
-qwen2.5-coder,qwen2.5-coder:14b,14b,,5500000,2025-05-28,The latest series of Code-Specific Qwen models, with significant improvements in code generation, code reasoning, and code fixing.
-qwen2.5-coder,qwen2.5-coder:32b,32b,,5500000,2025-05-28,The latest series of Code-Specific Qwen models, with significant improvements in code generation, code reasoning, and code fixing.
-qwen2.5vl,qwen2.5vl:3b,3b,,255900,2025-05-28,Flagship vision-language model of Qwen and also a significant leap from the previous Qwen2-VL.
-qwen2.5vl,qwen2.5vl:7b,7b,,255900,2025-05-28,Flagship vision-language model of Qwen and also a significant leap from the previous Qwen2-VL.
-qwen2.5vl,qwen2.5vl:32b,32b,,255900,2025-05-28,Flagship vision-language model of Qwen and also a significant leap from the previous Qwen2-VL.
-qwen2.5vl,qwen2.5vl:72b,72b,,255900,2025-05-28,Flagship vision-language model of Qwen and also a significant leap from the previous Qwen2-VL.
-qwen3,qwen3:0.6b,0.6b,,1900000,2025-05-29,Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models.
-qwen3,qwen3:1.7b,1.7b,,1900000,2025-05-29,Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models.
-qwen3,qwen3:4b,4b,,1900000,2025-05-29,Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models.
-qwen3,qwen3:8b,8b,,1900000,2025-05-29,Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models.
-qwen3,qwen3:14b,14b,,1900000,2025-05-29,Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models.
-qwen3,qwen3:30b,30b,,1900000,2025-05-29,Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models.
-qwen3,qwen3:32b,32b,,1900000,2025-05-29,Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models.
-qwen3,qwen3:235b,235b,,1900000,2025-05-29,Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models.
-qwq,qwq:32b,32b,,1500000,2025-04-05,QwQ is the reasoning model of the Qwen series.
-r1-1776,r1-1776:70b,70b,,38400,2025-03-06,A version of the DeepSeek-R1 model that has been post trained to provide unbiased, accurate, and factual information by Perplexity.
-r1-1776,r1-1776:671b,671b,,38400,2025-03-06,A version of the DeepSeek-R1 model that has been post trained to provide unbiased, accurate, and factual information by Perplexity.
-reader-lm,reader-lm:0.5b,0.5b,,40300,2024-10-07,A series of models that convert HTML content to Markdown content, which is useful for content conversion tasks.
-reader-lm,reader-lm:1.5b,1.5b,,40300,2024-10-07,A series of models that convert HTML content to Markdown content, which is useful for content conversion tasks.
-reflection,reflection:70b,70b,,105900,2024-10-07,A high-performing model trained with a new technique called Reflection-tuning that teaches a LLM to detect mistakes in its reasoning and correct course.
-sailor2,sailor2:1b,1b,,12200,2024-12-06,Sailor2 are multilingual language models made for South-East Asia. Available in 1B, 8B, and 20B parameter sizes.
-sailor2,sailor2:8b,8b,,12200,2024-12-06,Sailor2 are multilingual language models made for South-East Asia. Available in 1B, 8B, and 20B parameter sizes.
-sailor2,sailor2:20b,20b,,12200,2024-12-06,Sailor2 are multilingual language models made for South-East Asia. Available in 1B, 8B, and 20B parameter sizes.
-samantha-mistral,samantha-mistral:7b,7b,,94300,2025-06-04,A companion assistant trained in philosophy, psychology, and personal relationships. Based on Mistral.
-shieldgemma,shieldgemma:2b,2b,,41700,2024-11-06,ShieldGemma is set of instruction tuned models for evaluating the safety of text prompt input and text output responses against a set of defined safety policies.
-shieldgemma,shieldgemma:9b,9b,,41700,2024-11-06,ShieldGemma is set of instruction tuned models for evaluating the safety of text prompt input and text output responses against a set of defined safety policies.
-shieldgemma,shieldgemma:27b,27b,,41700,2024-11-06,ShieldGemma is set of instruction tuned models for evaluating the safety of text prompt input and text output responses against a set of defined safety policies.
-smallthinker,smallthinker:3b,3b,,59200,2025-01-05,A new small reasoning model fine-tuned from the Qwen 2.5 3B Instruct model.
-smollm,smollm:135m,135m,,273600,2024-09-07,🪐 A family of small models with 135M, 360M, and 1.7B parameters, trained on a new high-quality dataset.
-smollm,smollm:360m,360m,,273600,2024-09-07,🪐 A family of small models with 135M, 360M, and 1.7B parameters, trained on a new high-quality dataset.
-smollm,smollm:1.7b,1.7b,,273600,2024-09-07,🪐 A family of small models with 135M, 360M, and 1.7B parameters, trained on a new high-quality dataset.
-smollm2,smollm2:135m,135m,,877400,2024-11-06,SmolLM2 is a family of compact language models available in three size: 135M, 360M, and 1.7B parameters.
-smollm2,smollm2:360m,360m,,877400,2024-11-06,SmolLM2 is a family of compact language models available in three size: 135M, 360M, and 1.7B parameters.
-smollm2,smollm2:1.7b,1.7b,,877400,2024-11-06,SmolLM2 is a family of compact language models available in three size: 135M, 360M, and 1.7B parameters.
-snowflake-arctic-embed,snowflake-arctic-embed:22m,22m,,739100,2025-06-04,A suite of text embedding models by Snowflake, optimized for performance.
-snowflake-arctic-embed,snowflake-arctic-embed:33m,33m,,739100,2025-06-04,A suite of text embedding models by Snowflake, optimized for performance.
-snowflake-arctic-embed,snowflake-arctic-embed:110m,110m,,739100,2025-06-04,A suite of text embedding models by Snowflake, optimized for performance.
-snowflake-arctic-embed,snowflake-arctic-embed:137m,137m,,739100,2025-06-04,A suite of text embedding models by Snowflake, optimized for performance.
-snowflake-arctic-embed,snowflake-arctic-embed:335m,335m,,739100,2025-06-04,A suite of text embedding models by Snowflake, optimized for performance.
-snowflake-arctic-embed2,snowflake-arctic-embed2:568m,568m,,86400,2024-12-06,Snowflake's frontier embedding model. Arctic Embed 2.0 adds multilingual support without sacrificing English performance or scalability.
-solar,solar:10.7b,10.7b,,82400,2025-06-04,A compact, yet powerful 10.7B large language model designed for single-turn conversation.
-solar-pro,solar-pro:22b,22b,,36900,2024-10-07,Solar Pro Preview: an advanced large language model (LLM) with 22 billion parameters designed to fit into a single GPU
-sqlcoder,sqlcoder:7b,7b,,106500,2025-06-04,SQLCoder is a code completion model fined-tuned on StarCoder for SQL generation tasks
-sqlcoder,sqlcoder:15b,15b,,106500,2025-06-04,SQLCoder is a code completion model fined-tuned on StarCoder for SQL generation tasks
-stable-beluga,stable-beluga:7b,7b,,60800,2025-06-04,Llama 2 based model fine tuned on an Orca-style dataset. Originally called Free Willy.
-stable-beluga,stable-beluga:13b,13b,,60800,2025-06-04,Llama 2 based model fine tuned on an Orca-style dataset. Originally called Free Willy.
-stable-beluga,stable-beluga:70b,70b,,60800,2025-06-04,Llama 2 based model fine tuned on an Orca-style dataset. Originally called Free Willy.
-stable-code,stable-code:3b,3b,,132900,2025-06-04,Stable Code 3B is a coding model with instruct and code completion variants on par with models such as Code Llama 7B that are 2.5x larger.
-stablelm-zephyr,stablelm-zephyr:3b,3b,,39300,2025-06-04,A lightweight chat model allowing accurate, and responsive output without requiring high-end hardware.
-stablelm2,stablelm2:1.6b,1.6b,,114300,2025-06-04,Stable LM 2 is a state-of-the-art 1.6B and 12B parameter language model trained on multilingual data in English, Spanish, German, Italian, French, Portuguese, and Dutch.
-stablelm2,stablelm2:12b,12b,,114300,2025-06-04,Stable LM 2 is a state-of-the-art 1.6B and 12B parameter language model trained on multilingual data in English, Spanish, German, Italian, French, Portuguese, and Dutch.
-starcoder,starcoder:1b,1b,,199600,2025-06-04,StarCoder is a code generation model trained on 80+ programming languages.
-starcoder,starcoder:3b,3b,,199600,2025-06-04,StarCoder is a code generation model trained on 80+ programming languages.
-starcoder,starcoder:7b,7b,,199600,2025-06-04,StarCoder is a code generation model trained on 80+ programming languages.
-starcoder,starcoder:15b,15b,,199600,2025-06-04,StarCoder is a code generation model trained on 80+ programming languages.
-starcoder2,starcoder2:3b,3b,,965600,2024-09-07,StarCoder2 is the next generation of transparently trained open code LLMs that comes in three sizes: 3B, 7B and 15B parameters.
-starcoder2,starcoder2:7b,7b,,965600,2024-09-07,StarCoder2 is the next generation of transparently trained open code LLMs that comes in three sizes: 3B, 7B and 15B parameters.
-starcoder2,starcoder2:15b,15b,,965600,2024-09-07,StarCoder2 is the next generation of transparently trained open code LLMs that comes in three sizes: 3B, 7B and 15B parameters.
-starling-lm,starling-lm:7b,7b,,85900,2025-06-04,Starling is a large language model trained by reinforcement learning from AI feedback focused on improving chatbot helpfulness.
-tinydolphin,tinydolphin:1.1b,1.1b,,130000,2025-06-04,An experimental 1.1B parameter model trained on the new Dolphin 2.8 dataset by Eric Hartford and based on TinyLlama.
-tinyllama,tinyllama:1.1b,1.1b,,1900000,2025-06-04,The TinyLlama project is an open endeavor to train a compact 1.1B Llama model on 3 trillion tokens.
-tulu3,tulu3:8b,8b,,26600,2025-01-05,Tülu 3 is a leading instruction following model family, offering fully open-source data, code, and recipes by the The Allen Institute for AI.
-tulu3,tulu3:70b,70b,,26600,2025-01-05,Tülu 3 is a leading instruction following model family, offering fully open-source data, code, and recipes by the The Allen Institute for AI.
-vicuna,vicuna:7b,7b,,182900,2025-06-04,General use chat model based on Llama and Llama 2 with 2K to 16K context sizes.
-vicuna,vicuna:13b,13b,,182900,2025-06-04,General use chat model based on Llama and Llama 2 with 2K to 16K context sizes.
-vicuna,vicuna:33b,33b,,182900,2025-06-04,General use chat model based on Llama and Llama 2 with 2K to 16K context sizes.
-wizard-math,wizard-math:7b,7b,,104900,2025-06-04,Model focused on math and logic problems
-wizard-math,wizard-math:13b,13b,,104900,2025-06-04,Model focused on math and logic problems
-wizard-math,wizard-math:70b,70b,,104900,2025-06-04,Model focused on math and logic problems
-wizard-vicuna,wizard-vicuna:13b,13b,,31000,2025-06-04,Wizard Vicuna is a 13B parameter model based on Llama 2 trained by MelodysDreamj.
-wizard-vicuna-uncensored,wizard-vicuna-uncensored:7b,7b,,205000,2025-06-04,Wizard Vicuna Uncensored is a 7B, 13B, and 30B parameter model based on Llama 2 uncensored by Eric Hartford.
-wizard-vicuna-uncensored,wizard-vicuna-uncensored:13b,13b,,205000,2025-06-04,Wizard Vicuna Uncensored is a 7B, 13B, and 30B parameter model based on Llama 2 uncensored by Eric Hartford.
-wizard-vicuna-uncensored,wizard-vicuna-uncensored:30b,30b,,205000,2025-06-04,Wizard Vicuna Uncensored is a 7B, 13B, and 30B parameter model based on Llama 2 uncensored by Eric Hartford.
-wizardcoder,wizardcoder:33b,33b,,125500,2025-06-04,State-of-the-art code generation model
-wizardlm-uncensored,wizardlm-uncensored:13b,13b,,66600,2025-06-04,Uncensored version of Wizard LM model
-wizardlm2,wizardlm2:7b,7b,,369400,2025-06-04,State of the art large language model from Microsoft AI with improved performance on complex chat, multilingual, reasoning and agent use cases.
-wizardlm2,wizardlm2:8x22b,8x22b,,369400,2025-06-04,State of the art large language model from Microsoft AI with improved performance on complex chat, multilingual, reasoning and agent use cases.
-xwinlm,xwinlm:7b,7b,,86600,2025-06-04,Conversational model based on Llama 2 that performs competitively on various benchmarks.
-xwinlm,xwinlm:13b,13b,,86600,2025-06-04,Conversational model based on Llama 2 that performs competitively on various benchmarks.
-yarn-llama2,yarn-llama2:7b,7b,,81100,2025-06-04,An extension of Llama 2 that supports a context of up to 128k tokens.
-yarn-llama2,yarn-llama2:13b,13b,,81100,2025-06-04,An extension of Llama 2 that supports a context of up to 128k tokens.
-yarn-mistral,yarn-mistral:7b,7b,,46700,2025-06-04,An extension of Mistral to support context windows of 64K or 128K.
-yi,yi:6b,6b,,280000,2025-06-04,Yi 1.5 is a high-performing, bilingual language model.
-yi,yi:9b,9b,,280000,2025-06-04,Yi 1.5 is a high-performing, bilingual language model.
-yi,yi:34b,34b,,280000,2025-06-04,Yi 1.5 is a high-performing, bilingual language model.
-yi-coder,yi-coder:1.5b,1.5b,,83800,2024-10-07,Yi-Coder is a series of open-source code language models that delivers state-of-the-art coding performance with fewer than 10 billion parameters.
-yi-coder,yi-coder:9b,9b,,83800,2024-10-07,Yi-Coder is a series of open-source code language models that delivers state-of-the-art coding performance with fewer than 10 billion parameters.
-zephyr,zephyr:7b,7b,,268400,2025-06-04,Zephyr is a series of fine-tuned versions of the Mistral and Mixtral models that are trained to act as helpful assistants.
-zephyr,zephyr:141b,141b,,268400,2025-06-04,Zephyr is a series of fine-tuned versions of the Mistral and Mixtral models that are trained to act as helpful assistants.
+model,size,tags,pulls,updated,description
+alfred,40b,,17100,2025-06-04,A robust conversational model designed to be used for both chat and instruct use cases.
+all-minilm,22m,,544400,2025-06-04,Embedding models on very large sentence level datasets.
+all-minilm,33m,,544400,2025-06-04,Embedding models on very large sentence level datasets.
+athene-v2,72b,,82300,2024-12-06,Athene-V2 is a 72B parameter model which excels at code completion, mathematics, and log extraction tasks.
+aya,8b,,144500,2025-06-04,Aya 23, released by Cohere, is a new family of state-of-the-art, multilingual models that support 23 languages.
+aya,35b,,144500,2025-06-04,Aya 23, released by Cohere, is a new family of state-of-the-art, multilingual models that support 23 languages.
+aya-expanse,8b,,63900,2024-11-06,Cohere For AI's language models trained to perform well across 23 different languages.
+aya-expanse,32b,,63900,2024-11-06,Cohere For AI's language models trained to perform well across 23 different languages.
+bakllava,7b,,119000,2025-06-04,BakLLaVA is a multimodal model consisting of the Mistral 7B base model augmented with the LLaVA  architecture.
+bespoke-minicheck,7b,,27300,2024-10-07,A state-of-the-art fact-checking model developed by Bespoke Labs.
+bge-large,335m,,105000,2024-08-08,Embedding model from BAAI mapping texts to vectors.
+bge-m3,567m,,1200000,2024-08-08,BGE-M3 is a new model from BAAI distinguished for its versatility in Multi-Functionality, Multi-Linguality, and Multi-Granularity.
+codebooga,34b,,33000,2025-06-04,A high-performing code instruct model created by merging two existing code models.
+codegeex4,9b,,145400,2024-07-09,A versatile model for AI software development scenarios, including code completion.
+codegemma,2b,,618500,2024-08-08,CodeGemma is a collection of powerful, lightweight models that can perform a variety of coding tasks like fill-in-the-middle code completion, code generation, natural language understanding, mathematical reasoning, and instruction following.
+codegemma,7b,,618500,2024-08-08,CodeGemma is a collection of powerful, lightweight models that can perform a variety of coding tasks like fill-in-the-middle code completion, code generation, natural language understanding, mathematical reasoning, and instruction following.
+codellama,7b,,2100000,2024-08-08,A large language model that can use text prompts to generate and discuss code.
+codellama,13b,,2100000,2024-08-08,A large language model that can use text prompts to generate and discuss code.
+codellama,34b,,2100000,2024-08-08,A large language model that can use text prompts to generate and discuss code.
+codellama,70b,,2100000,2024-08-08,A large language model that can use text prompts to generate and discuss code.
+codeqwen,7b,,147000,2024-07-09,CodeQwen1.5 is a large language model pretrained on a large amount of code data.
+codestral,22b,,298400,2024-09-07,Codestral is Mistral AI’s first-ever code model designed for code generation tasks.
+codeup,13b,,41500,2025-06-04,Great code generation model based on Llama2.
+cogito,3b,,101100,2025-05-05,Cogito v1 Preview is a family of hybrid reasoning models by Deep Cogito that outperform the best available open models of the same size, including counterparts from LLaMA, DeepSeek, and Qwen across most standard benchmarks.
+cogito,8b,,101100,2025-05-05,Cogito v1 Preview is a family of hybrid reasoning models by Deep Cogito that outperform the best available open models of the same size, including counterparts from LLaMA, DeepSeek, and Qwen across most standard benchmarks.
+cogito,14b,,101100,2025-05-05,Cogito v1 Preview is a family of hybrid reasoning models by Deep Cogito that outperform the best available open models of the same size, including counterparts from LLaMA, DeepSeek, and Qwen across most standard benchmarks.
+cogito,32b,,101100,2025-05-05,Cogito v1 Preview is a family of hybrid reasoning models by Deep Cogito that outperform the best available open models of the same size, including counterparts from LLaMA, DeepSeek, and Qwen across most standard benchmarks.
+cogito,70b,,101100,2025-05-05,Cogito v1 Preview is a family of hybrid reasoning models by Deep Cogito that outperform the best available open models of the same size, including counterparts from LLaMA, DeepSeek, and Qwen across most standard benchmarks.
+command-a,111b,,16200,2025-04-05,111 billion parameter model optimized for demanding enterprises that require fast, secure, and high-quality AI
+command-r,35b,,297000,2024-09-07,Command R is a Large Language Model optimized for conversational interaction and long context tasks.
+command-r-plus,104b,,127000,2024-09-07,Command R+ is a powerful, scalable large language model purpose-built to excel at real-world enterprise use cases.
+command-r7b,7b,,35400,2025-02-04,The smallest model in Cohere's R series delivers top-tier speed, efficiency, and quality to build powerful AI applications on commodity GPUs and edge devices.
+command-r7b-arabic,7b,,6450,2025-03-06,A new state-of-the-art version of the lightweight Command R7B model that excels in advanced Arabic language capabilities for enterprises in the Middle East and Northern Africa.
+dbrx,132b,,19400,2025-06-04,DBRX is an open, general-purpose LLM created by Databricks.
+deepcoder,1.5b,,133100,2025-05-05,DeepCoder is a fully open-Source 14B coder model at O3-mini level, with a 1.5B version also available.
+deepcoder,14b,,133100,2025-05-05,DeepCoder is a fully open-Source 14B coder model at O3-mini level, with a 1.5B version also available.
+deepscaler,1.5b,,81400,2025-03-06,A fine-tuned version of Deepseek-R1-Distilled-Qwen-1.5B that surpasses the performance of OpenAI’s o1-preview with just 1.5B parameters on popular math evaluations.
+deepseek-coder,1.3b,,745100,2025-06-04,DeepSeek Coder is a capable coding model trained on two trillion code and natural language tokens.
+deepseek-coder,6.7b,,745100,2025-06-04,DeepSeek Coder is a capable coding model trained on two trillion code and natural language tokens.
+deepseek-coder,33b,,745100,2025-06-04,DeepSeek Coder is a capable coding model trained on two trillion code and natural language tokens.
+deepseek-coder-v2,16b,,842300,2024-09-07,An open-source Mixture-of-Experts code language model that achieves performance comparable to GPT4-Turbo in code-specific tasks.
+deepseek-coder-v2,236b,,842300,2024-09-07,An open-source Mixture-of-Experts code language model that achieves performance comparable to GPT4-Turbo in code-specific tasks.
+deepseek-llm,7b,,151300,2025-06-04,An advanced language model crafted with 2 trillion bilingual tokens.
+deepseek-llm,67b,,151300,2025-06-04,An advanced language model crafted with 2 trillion bilingual tokens.
+deepseek-r1,1.5b,,46900000,2025-06-02,DeepSeek-R1 is a family of open reasoning models with performance approaching that of leading models, such as O3 and Gemini 2.5 Pro.
+deepseek-r1,7b,,46900000,2025-06-02,DeepSeek-R1 is a family of open reasoning models with performance approaching that of leading models, such as O3 and Gemini 2.5 Pro.
+deepseek-r1,8b,,46900000,2025-06-02,DeepSeek-R1 is a family of open reasoning models with performance approaching that of leading models, such as O3 and Gemini 2.5 Pro.
+deepseek-r1,14b,,46900000,2025-06-02,DeepSeek-R1 is a family of open reasoning models with performance approaching that of leading models, such as O3 and Gemini 2.5 Pro.
+deepseek-r1,32b,,46900000,2025-06-02,DeepSeek-R1 is a family of open reasoning models with performance approaching that of leading models, such as O3 and Gemini 2.5 Pro.
+deepseek-r1,70b,,46900000,2025-06-02,DeepSeek-R1 is a family of open reasoning models with performance approaching that of leading models, such as O3 and Gemini 2.5 Pro.
+deepseek-r1,671b,,46900000,2025-06-02,DeepSeek-R1 is a family of open reasoning models with performance approaching that of leading models, such as O3 and Gemini 2.5 Pro.
+deepseek-v2,16b,,157300,2024-07-09,A strong, economical, and efficient Mixture-of-Experts language model.
+deepseek-v2,236b,,157300,2024-07-09,A strong, economical, and efficient Mixture-of-Experts language model.
+deepseek-v2.5,236b,,54700,2024-10-07,An upgraded version of DeekSeek-V2  that integrates the general and coding abilities of both DeepSeek-V2-Chat and DeepSeek-Coder-V2-Instruct.
+deepseek-v3,671b,,1400000,2025-02-04,A strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token.
+devstral,24b,,97200,2025-05-28,Devstral: the best open source model for coding agents
+dolphin-llama3,8b,,326500,2025-06-04,Dolphin 2.9 is a new model with 8B and 70B sizes by Eric Hartford based on Llama 3 that has a variety of instruction, conversational, and coding skills.
+dolphin-llama3,70b,,326500,2025-06-04,Dolphin 2.9 is a new model with 8B and 70B sizes by Eric Hartford based on Llama 3 that has a variety of instruction, conversational, and coding skills.
+dolphin-mistral,7b,,350200,2025-06-04,The uncensored Dolphin model based on Mistral that excels at coding tasks. Updated to version 2.8.
+dolphin-mixtral,8x7b,,578400,2025-01-05,Uncensored, 8x7b and 8x22b fine-tuned models based on the Mixtral mixture of experts models that excels at coding tasks. Created by Eric Hartford.
+dolphin-mixtral,8x22b,,578400,2025-01-05,Uncensored, 8x7b and 8x22b fine-tuned models based on the Mixtral mixture of experts models that excels at coding tasks. Created by Eric Hartford.
+dolphin-phi,2.7b,,75300,2025-06-04,2.7B uncensored Dolphin model by Eric Hartford, based on the Phi language model by Microsoft Research.
+dolphin3,8b,,1300000,2025-02-04,Dolphin 3.0 Llama 3.1 8B 🐬 is the next generation of the Dolphin series of instruct-tuned models designed to be the ultimate general purpose local model, enabling coding, math, agentic, function calling, and general use cases.
+dolphincoder,7b,,89900,2025-06-04,A 7B and 15B uncensored variant of the Dolphin model family that excels at coding, based on StarCoder2.
+dolphincoder,15b,,89900,2025-06-04,A 7B and 15B uncensored variant of the Dolphin model family that excels at coding, based on StarCoder2.
+duckdb-nsql,7b,,35100,2025-06-04,7B parameter text-to-SQL model made by MotherDuck and Numbers Station.
+everythinglm,13b,,41200,2025-06-04,Uncensored Llama2 based model with support for a 16K context window.
+exaone-deep,2.4b,,47000,2025-04-05,EXAONE Deep exhibits superior capabilities in various reasoning tasks including math and coding benchmarks, ranging from 2.4B to 32B parameters developed and released by LG AI Research.
+exaone-deep,7.8b,,47000,2025-04-05,EXAONE Deep exhibits superior capabilities in various reasoning tasks including math and coding benchmarks, ranging from 2.4B to 32B parameters developed and released by LG AI Research.
+exaone-deep,32b,,47000,2025-04-05,EXAONE Deep exhibits superior capabilities in various reasoning tasks including math and coding benchmarks, ranging from 2.4B to 32B parameters developed and released by LG AI Research.
+exaone3.5,2.4b,,79100,2025-01-05,EXAONE 3.5 is a collection of instruction-tuned bilingual (English and Korean) generative models ranging from 2.4B to 32B parameters, developed and released by LG AI Research.
+exaone3.5,7.8b,,79100,2025-01-05,EXAONE 3.5 is a collection of instruction-tuned bilingual (English and Korean) generative models ranging from 2.4B to 32B parameters, developed and released by LG AI Research.
+exaone3.5,32b,,79100,2025-01-05,EXAONE 3.5 is a collection of instruction-tuned bilingual (English and Korean) generative models ranging from 2.4B to 32B parameters, developed and released by LG AI Research.
+falcon,7b,,75000,2025-06-04,A large language model built by the Technology Innovation Institute (TII) for use in summarization, text generation, and chat bots.
+falcon,40b,,75000,2025-06-04,A large language model built by the Technology Innovation Institute (TII) for use in summarization, text generation, and chat bots.
+falcon,180b,,75000,2025-06-04,A large language model built by the Technology Innovation Institute (TII) for use in summarization, text generation, and chat bots.
+falcon2,11b,,35200,2025-06-04,Falcon2 is an 11B parameters causal decoder-only model built by TII and trained over 5T tokens.
+falcon3,1b,,55400,2025-01-05,A family of efficient AI models under 10B parameters performant in science, math, and coding through innovative training techniques.
+falcon3,3b,,55400,2025-01-05,A family of efficient AI models under 10B parameters performant in science, math, and coding through innovative training techniques.
+falcon3,7b,,55400,2025-01-05,A family of efficient AI models under 10B parameters performant in science, math, and coding through innovative training techniques.
+falcon3,10b,,55400,2025-01-05,A family of efficient AI models under 10B parameters performant in science, math, and coding through innovative training techniques.
+firefunction-v2,70b,,21700,2024-08-08,An open weights function calling model based on Llama 3, competitive with GPT-4o function calling capabilities.
+gemma,2b,,4600000,2025-06-04,Gemma is a family of lightweight, state-of-the-art open models built by Google DeepMind. Updated to version 1.1
+gemma,7b,,4600000,2025-06-04,Gemma is a family of lightweight, state-of-the-art open models built by Google DeepMind. Updated to version 1.1
+gemma2,2b,,5000000,2024-08-08,Google Gemma 2 is a high-performing and efficient model available in three sizes: 2B, 9B, and 27B.
+gemma2,9b,,5000000,2024-08-08,Google Gemma 2 is a high-performing and efficient model available in three sizes: 2B, 9B, and 27B.
+gemma2,27b,,5000000,2024-08-08,Google Gemma 2 is a high-performing and efficient model available in three sizes: 2B, 9B, and 27B.
+gemma3,1b,,5500000,2025-05-05,The current, most capable model that runs on a single GPU.
+gemma3,4b,,5500000,2025-05-05,The current, most capable model that runs on a single GPU.
+gemma3,12b,,5500000,2025-05-05,The current, most capable model that runs on a single GPU.
+gemma3,27b,,5500000,2025-05-05,The current, most capable model that runs on a single GPU.
+glm4,9b,,133200,2024-07-09,A strong multi-lingual general language model with competitive performance to Llama 3.
+granite-code,3b,,211800,2024-09-07,A family of open foundation models by IBM for Code Intelligence
+granite-code,8b,,211800,2024-09-07,A family of open foundation models by IBM for Code Intelligence
+granite-code,20b,,211800,2024-09-07,A family of open foundation models by IBM for Code Intelligence
+granite-code,34b,,211800,2024-09-07,A family of open foundation models by IBM for Code Intelligence
+granite-embedding,30m,,52600,2025-01-05,The IBM Granite Embedding 30M and 278M models models are text-only dense biencoder embedding models, with 30M available in English only and 278M serving multilingual use cases.
+granite-embedding,278m,,52600,2025-01-05,The IBM Granite Embedding 30M and 278M models models are text-only dense biencoder embedding models, with 30M available in English only and 278M serving multilingual use cases.
+granite3-dense,2b,,99200,2024-12-06,The IBM Granite 2B and 8B models are designed to support tool-based use cases and support for retrieval augmented generation (RAG), streamlining code generation, translation and bug fixing.
+granite3-dense,8b,,99200,2024-12-06,The IBM Granite 2B and 8B models are designed to support tool-based use cases and support for retrieval augmented generation (RAG), streamlining code generation, translation and bug fixing.
+granite3-guardian,2b,,19200,2024-12-06,The IBM Granite Guardian 3.0 2B and 8B models are designed to detect risks in prompts and/or responses.
+granite3-guardian,8b,,19200,2024-12-06,The IBM Granite Guardian 3.0 2B and 8B models are designed to detect risks in prompts and/or responses.
+granite3-moe,1b,,50300,2024-12-06,The IBM Granite 1B and 3B models are the first mixture of experts (MoE) Granite models from IBM designed for low latency usage.
+granite3-moe,3b,,50300,2024-12-06,The IBM Granite 1B and 3B models are the first mixture of experts (MoE) Granite models from IBM designed for low latency usage.
+granite3.1-dense,2b,,96800,2025-02-04,The IBM Granite 2B and 8B models are text-only dense LLMs trained on over 12 trillion tokens of data, demonstrated significant improvements over their predecessors in performance and speed in IBM’s initial testing.
+granite3.1-dense,8b,,96800,2025-02-04,The IBM Granite 2B and 8B models are text-only dense LLMs trained on over 12 trillion tokens of data, demonstrated significant improvements over their predecessors in performance and speed in IBM’s initial testing.
+granite3.1-moe,1b,,45000,2025-02-04,The IBM Granite 1B and 3B models are long-context mixture of experts (MoE) Granite models from IBM designed for low latency usage.
+granite3.1-moe,3b,,45000,2025-02-04,The IBM Granite 1B and 3B models are long-context mixture of experts (MoE) Granite models from IBM designed for low latency usage.
+granite3.2,2b,,105500,2025-03-06,Granite-3.2 is a family of long-context AI models from IBM Granite fine-tuned for thinking capabilities.
+granite3.2,8b,,105500,2025-03-06,Granite-3.2 is a family of long-context AI models from IBM Granite fine-tuned for thinking capabilities.
+granite3.2-vision,2b,,90100,2025-03-06,A compact and efficient vision-language model, specifically designed for visual document understanding, enabling automated content extraction from tables, charts, infographics, plots, diagrams, and more.
+granite3.3,2b,,88900,2025-05-05,IBM Granite 2B and 8B models are 128K context length language models that have been fine-tuned for improved reasoning and instruction-following capabilities.
+granite3.3,8b,,88900,2025-05-05,IBM Granite 2B and 8B models are 128K context length language models that have been fine-tuned for improved reasoning and instruction-following capabilities.
+hermes3,3b,,287300,2025-01-05,Hermes 3 is the latest version of the flagship Hermes series of LLMs by Nous Research
+hermes3,8b,,287300,2025-01-05,Hermes 3 is the latest version of the flagship Hermes series of LLMs by Nous Research
+hermes3,70b,,287300,2025-01-05,Hermes 3 is the latest version of the flagship Hermes series of LLMs by Nous Research
+hermes3,405b,,287300,2025-01-05,Hermes 3 is the latest version of the flagship Hermes series of LLMs by Nous Research
+internlm2,1m,,80600,2024-09-07,InternLM2.5 is a 7B parameter model tailored for practical scenarios with outstanding reasoning capability.
+internlm2,1.8b,,80600,2024-09-07,InternLM2.5 is a 7B parameter model tailored for practical scenarios with outstanding reasoning capability.
+internlm2,7b,,80600,2024-09-07,InternLM2.5 is a 7B parameter model tailored for practical scenarios with outstanding reasoning capability.
+internlm2,20b,,80600,2024-09-07,InternLM2.5 is a 7B parameter model tailored for practical scenarios with outstanding reasoning capability.
+llama-guard3,1b,,40900,2024-11-06,Llama Guard 3 is a series of models fine-tuned for content safety classification of LLM inputs and responses.
+llama-guard3,8b,,40900,2024-11-06,Llama Guard 3 is a series of models fine-tuned for content safety classification of LLM inputs and responses.
+llama2,7b,,3500000,2025-06-04,Llama 2 is a collection of foundation language models ranging from 7B to 70B parameters.
+llama2,13b,,3500000,2025-06-04,Llama 2 is a collection of foundation language models ranging from 7B to 70B parameters.
+llama2,70b,,3500000,2025-06-04,Llama 2 is a collection of foundation language models ranging from 7B to 70B parameters.
+llama2-chinese,7b,,153800,2025-06-04,Llama 2 based model fine tuned to improve Chinese dialogue ability.
+llama2-chinese,13b,,153800,2025-06-04,Llama 2 based model fine tuned to improve Chinese dialogue ability.
+llama2-uncensored,7b,,1200000,2025-06-04,Uncensored Llama 2 model by George Sung and Jarrad Hope.
+llama2-uncensored,70b,,1200000,2025-06-04,Uncensored Llama 2 model by George Sung and Jarrad Hope.
+llama3,8b,,8300000,2025-06-04,Meta Llama 3: The most capable openly available LLM to date
+llama3,70b,,8300000,2025-06-04,Meta Llama 3: The most capable openly available LLM to date
+llama3-chatqa,8b,,106000,2025-06-04,A model from NVIDIA based on Llama 3 that excels at conversational question answering (QA) and retrieval-augmented generation (RAG).
+llama3-chatqa,70b,,106000,2025-06-04,A model from NVIDIA based on Llama 3 that excels at conversational question answering (QA) and retrieval-augmented generation (RAG).
+llama3-gradient,8b,,102200,2025-06-04,This model extends LLama-3 8B's context length from 8k to over 1m tokens.
+llama3-gradient,70b,,102200,2025-06-04,This model extends LLama-3 8B's context length from 8k to over 1m tokens.
+llama3-groq-tool-use,8b,,68000,2024-08-08,A series of models from Groq that represent a significant advancement in open-source AI capabilities for tool use/function calling.
+llama3-groq-tool-use,70b,,68000,2024-08-08,A series of models from Groq that represent a significant advancement in open-source AI capabilities for tool use/function calling.
+llama3.1,8b,,94500000,2024-12-06,Llama 3.1 is a new state-of-the-art model from Meta available in 8B, 70B and 405B parameter sizes.
+llama3.1,70b,,94500000,2024-12-06,Llama 3.1 is a new state-of-the-art model from Meta available in 8B, 70B and 405B parameter sizes.
+llama3.1,405b,,94500000,2024-12-06,Llama 3.1 is a new state-of-the-art model from Meta available in 8B, 70B and 405B parameter sizes.
+llama3.2,1b,,18400000,2024-10-07,Meta's Llama 3.2 goes small with 1B and 3B models.
+llama3.2,3b,,18400000,2024-10-07,Meta's Llama 3.2 goes small with 1B and 3B models.
+llama3.2-vision,11b,,2200000,2025-05-28,Llama 3.2 Vision is a collection of instruction-tuned image reasoning generative models in 11B and 90B sizes.
+llama3.2-vision,90b,,2200000,2025-05-28,Llama 3.2 Vision is a collection of instruction-tuned image reasoning generative models in 11B and 90B sizes.
+llama3.3,70b,,1900000,2025-01-05,New state of the art 70B model. Llama 3.3 70B offers similar performance compared to the Llama 3.1 405B model.
+llama4,16x17b,,380000,2025-05-28,Meta's latest collection of multimodal models.
+llama4,128x17b,,380000,2025-05-28,Meta's latest collection of multimodal models.
+llava,7b,,6100000,2025-06-04,🌋 LLaVA is a novel end-to-end trained large multimodal model that combines a vision encoder and Vicuna for general-purpose visual and language understanding. Updated to version 1.6.
+llava,13b,,6100000,2025-06-04,🌋 LLaVA is a novel end-to-end trained large multimodal model that combines a vision encoder and Vicuna for general-purpose visual and language understanding. Updated to version 1.6.
+llava,34b,,6100000,2025-06-04,🌋 LLaVA is a novel end-to-end trained large multimodal model that combines a vision encoder and Vicuna for general-purpose visual and language understanding. Updated to version 1.6.
+llava-llama3,8b,,936500,2025-06-04,A LLaVA model fine-tuned from Llama 3 Instruct with better scores in several benchmarks.
+llava-phi3,3.8b,,93900,2025-06-04,A new small LLaVA model fine-tuned from Phi 3 Mini.
+magicoder,7b,,33900,2025-06-04,🎩 Magicoder is a family of 7B parameter models trained on 75K synthetic instruction data using OSS-Instruct, a novel approach to enlightening LLMs with open-source code snippets.
+marco-o1,7b,,36500,2024-12-06,An open large reasoning model for real-world solutions by the Alibaba International Digital Commerce Group (AIDC-AI).
+mathstral,7b,,37400,2024-08-08,MathΣtral: a 7B model designed for math reasoning and scientific discovery by Mistral AI.
+meditron,7b,,54900,2025-06-04,Open-source medical large language model adapted from Llama 2 to the medical domain.
+meditron,70b,,54900,2025-06-04,Open-source medical large language model adapted from Llama 2 to the medical domain.
+medllama2,7b,,53400,2025-06-04,Fine-tuned Llama 2 model to answer medical questions based on an open source medical dataset.
+megadolphin,120b,,26300,2025-06-04,MegaDolphin-2.2-120b is a transformation of Dolphin-2.2-70b created by interleaving the model with itself.
+minicpm-v,8b,,1700000,2024-12-06,A series of multimodal LLMs (MLLMs) designed for vision-language understanding.
+mistral,7b,,14700000,2024-08-08,The 7B model released by Mistral AI, updated to version 0.3.
+mistral-large,123b,,137700,2024-12-06,Mistral Large 2 is Mistral's new flagship model that is significantly more capable in code generation, mathematics, and reasoning with 128k context window and support for dozens of languages.
+mistral-nemo,12b,,2000000,2024-08-08,A state-of-the-art 12B model with 128k context length, built by Mistral AI in collaboration with NVIDIA.
+mistral-openorca,7b,,171200,2025-06-04,Mistral OpenOrca is a 7 billion parameter model, fine-tuned on top of the Mistral 7B model using the OpenOrca dataset.
+mistral-small,22b,,895400,2025-02-04,Mistral Small 3 sets a new benchmark in the “small” Large Language Models category below 70B.
+mistral-small,24b,,895400,2025-02-04,Mistral Small 3 sets a new benchmark in the “small” Large Language Models category below 70B.
+mistral-small3.1,24b,,122300,2025-05-05,Building upon Mistral Small 3, Mistral Small 3.1 (2503) adds state-of-the-art vision understanding and enhances long context capabilities up to 128k tokens without compromising text performance.
+mistrallite,7b,,33500,2025-06-04,MistralLite is a fine-tuned model based on Mistral with enhanced capabilities of processing long contexts.
+mixtral,8x7b,,1000000,2025-01-05,A set of Mixture of Experts (MoE) model with open weights by Mistral AI in 8x7b and 8x22b parameter sizes.
+mixtral,8x22b,,1000000,2025-01-05,A set of Mixture of Experts (MoE) model with open weights by Mistral AI in 8x7b and 8x22b parameter sizes.
+moondream,1.8b,,198000,2025-06-04,moondream2 is a small vision language model designed to run efficiently on edge devices.
+mxbai-embed-large,335m,,3500000,2025-06-04,State-of-the-art large embedding model from mixedbread.ai
+nemotron,70b,,73500,2024-11-06,Llama-3.1-Nemotron-70B-Instruct is a large language model customized by NVIDIA to improve the helpfulness of LLM generated responses to user queries.
+nemotron-mini,4b,,83000,2024-10-07,A commercial-friendly small language model by NVIDIA optimized for roleplay, RAG QA, and function calling.
+neural-chat,7b,,114100,2025-06-04,A fine-tuned model based on Mistral with good coverage of domain and language.
+nexusraven,13b,,43400,2025-06-04,Nexus Raven is a 13B instruction tuned model for function calling tasks.
+notus,7b,,24700,2025-06-04,A 7B chat model fine-tuned with high-quality data and based on Zephyr.
+notux,8x7b,,25600,2025-06-04,A top-performing mixture of experts model, fine-tuned with high-quality data.
+nous-hermes,7b,,87700,2025-06-04,General use models based on Llama and Llama 2 from Nous Research.
+nous-hermes,13b,,87700,2025-06-04,General use models based on Llama and Llama 2 from Nous Research.
+nous-hermes2,10.7b,,129000,2025-06-04,The powerful family of models by Nous Research that excels at scientific discussion and coding tasks.
+nous-hermes2,34b,,129000,2025-06-04,The powerful family of models by Nous Research that excels at scientific discussion and coding tasks.
+nous-hermes2-mixtral,8x7b,,59800,2025-01-05,The Nous Hermes 2 model from Nous Research, now trained over Mixtral.
+nuextract,3.8b,,29400,2024-08-08,A 3.8B model fine-tuned on a private high-quality synthetic dataset for information extraction, based on Phi-3.
+olmo2,7b,,1300000,2025-02-04,OLMo 2 is a new family of 7B and 13B models trained on up to 5T tokens. These models are on par with or better than equivalently sized fully open models, and competitive with open-weight models such as Llama 3.1 on English academic benchmarks.
+olmo2,13b,,1300000,2025-02-04,OLMo 2 is a new family of 7B and 13B models trained on up to 5T tokens. These models are on par with or better than equivalently sized fully open models, and competitive with open-weight models such as Llama 3.1 on English academic benchmarks.
+open-orca-platypus2,13b,,25100,2025-06-04,Merge of the Open Orca OpenChat model and the Garage-bAInd Platypus 2 model. Designed for chat and code generation.
+openchat,7b,,165500,2025-06-04,A family of open-source models trained on a wide variety of data, surpassing ChatGPT on various benchmarks. Updated to version 3.5-0106.
+opencoder,1.5b,,48700,2024-12-06,OpenCoder is an open and reproducible code LLM family which includes 1.5B and 8B models, supporting chat in English and Chinese languages.
+opencoder,8b,,48700,2024-12-06,OpenCoder is an open and reproducible code LLM family which includes 1.5B and 8B models, supporting chat in English and Chinese languages.
+openthinker,7b,,528600,2025-04-05,A fully open-source family of reasoning models built using a dataset derived by distilling DeepSeek-R1.
+openthinker,32b,,528600,2025-04-05,A fully open-source family of reasoning models built using a dataset derived by distilling DeepSeek-R1.
+orca-mini,3b,,342200,2025-06-04,A general-purpose model ranging from 3 billion parameters to 70 billion, suitable for entry-level hardware.
+orca-mini,7b,,342200,2025-06-04,A general-purpose model ranging from 3 billion parameters to 70 billion, suitable for entry-level hardware.
+orca-mini,13b,,342200,2025-06-04,A general-purpose model ranging from 3 billion parameters to 70 billion, suitable for entry-level hardware.
+orca-mini,70b,,342200,2025-06-04,A general-purpose model ranging from 3 billion parameters to 70 billion, suitable for entry-level hardware.
+orca2,7b,,66800,2025-06-04,Orca 2 is built by Microsoft research, and are a fine-tuned version of Meta's Llama 2 models.  The model is designed to excel particularly in reasoning.
+orca2,13b,,66800,2025-06-04,Orca 2 is built by Microsoft research, and are a fine-tuned version of Meta's Llama 2 models.  The model is designed to excel particularly in reasoning.
+paraphrase-multilingual,278m,,62000,2024-08-08,Sentence-transformers model that can be used for tasks like clustering or semantic search.
+phi,2.7b,,547300,2025-06-04,Phi-2: a 2.7B language model by Microsoft Research that demonstrates outstanding reasoning and language understanding capabilities.
+phi3,3.8b,,3300000,2024-08-08,Phi-3 is a family of lightweight 3B (Mini) and 14B (Medium) state-of-the-art open models by Microsoft.
+phi3,14b,,3300000,2024-08-08,Phi-3 is a family of lightweight 3B (Mini) and 14B (Medium) state-of-the-art open models by Microsoft.
+phi3.5,3.8b,,281500,2024-09-07,A lightweight AI model with 3.8 billion parameters with performance overtaking similarly and larger sized models.
+phi4,14b,,2500000,2025-02-04,Phi-4 is a 14B parameter, state-of-the-art open model from Microsoft.
+phi4-mini,3.8b,,166100,2025-03-06,Phi-4-mini brings significant enhancements in multilingual support, reasoning, and mathematics, and now, the long-awaited function calling feature is finally supported.
+phi4-mini-reasoning,3.8b,,20100,2025-05-05,Phi 4 mini reasoning is a lightweight open model that balances efficiency with advanced reasoning ability.
+phi4-reasoning,14b,,68700,2025-05-05,Phi 4 reasoning and reasoning plus are 14-billion parameter open-weight reasoning models that rival much larger models on complex reasoning tasks.
+phind-codellama,34b,,85200,2025-06-04,Code generation model based on Code Llama.
+qwen,0.5b,,4700000,2025-06-04,Qwen 1.5 is a series of large language models by Alibaba Cloud spanning from 0.5B to 110B parameters
+qwen,1.8b,,4700000,2025-06-04,Qwen 1.5 is a series of large language models by Alibaba Cloud spanning from 0.5B to 110B parameters
+qwen,4b,,4700000,2025-06-04,Qwen 1.5 is a series of large language models by Alibaba Cloud spanning from 0.5B to 110B parameters
+qwen,7b,,4700000,2025-06-04,Qwen 1.5 is a series of large language models by Alibaba Cloud spanning from 0.5B to 110B parameters
+qwen,14b,,4700000,2025-06-04,Qwen 1.5 is a series of large language models by Alibaba Cloud spanning from 0.5B to 110B parameters
+qwen,32b,,4700000,2025-06-04,Qwen 1.5 is a series of large language models by Alibaba Cloud spanning from 0.5B to 110B parameters
+qwen,72b,,4700000,2025-06-04,Qwen 1.5 is a series of large language models by Alibaba Cloud spanning from 0.5B to 110B parameters
+qwen,110b,,4700000,2025-06-04,Qwen 1.5 is a series of large language models by Alibaba Cloud spanning from 0.5B to 110B parameters
+qwen2,0.5b,,4200000,2024-10-07,Qwen2 is a new series of large language models from Alibaba group
+qwen2,1.5b,,4200000,2024-10-07,Qwen2 is a new series of large language models from Alibaba group
+qwen2,7b,,4200000,2024-10-07,Qwen2 is a new series of large language models from Alibaba group
+qwen2,72b,,4200000,2024-10-07,Qwen2 is a new series of large language models from Alibaba group
+qwen2-math,1.5b,,128800,2024-09-07,Qwen2 Math is a series of specialized math language models built upon the Qwen2 LLMs, which significantly outperforms the mathematical capabilities of open-source models and even closed-source models (e.g., GPT4o).
+qwen2-math,7b,,128800,2024-09-07,Qwen2 Math is a series of specialized math language models built upon the Qwen2 LLMs, which significantly outperforms the mathematical capabilities of open-source models and even closed-source models (e.g., GPT4o).
+qwen2-math,72b,,128800,2024-09-07,Qwen2 Math is a series of specialized math language models built upon the Qwen2 LLMs, which significantly outperforms the mathematical capabilities of open-source models and even closed-source models (e.g., GPT4o).
+qwen2.5,0.5b,,9300000,2024-10-07,Qwen2.5 models are pretrained on Alibaba's latest large-scale dataset, encompassing up to 18 trillion tokens. The model supports up to 128K tokens and has multilingual support.
+qwen2.5,1.5b,,9300000,2024-10-07,Qwen2.5 models are pretrained on Alibaba's latest large-scale dataset, encompassing up to 18 trillion tokens. The model supports up to 128K tokens and has multilingual support.
+qwen2.5,3b,,9300000,2024-10-07,Qwen2.5 models are pretrained on Alibaba's latest large-scale dataset, encompassing up to 18 trillion tokens. The model supports up to 128K tokens and has multilingual support.
+qwen2.5,7b,,9300000,2024-10-07,Qwen2.5 models are pretrained on Alibaba's latest large-scale dataset, encompassing up to 18 trillion tokens. The model supports up to 128K tokens and has multilingual support.
+qwen2.5,14b,,9300000,2024-10-07,Qwen2.5 models are pretrained on Alibaba's latest large-scale dataset, encompassing up to 18 trillion tokens. The model supports up to 128K tokens and has multilingual support.
+qwen2.5,32b,,9300000,2024-10-07,Qwen2.5 models are pretrained on Alibaba's latest large-scale dataset, encompassing up to 18 trillion tokens. The model supports up to 128K tokens and has multilingual support.
+qwen2.5,72b,,9300000,2024-10-07,Qwen2.5 models are pretrained on Alibaba's latest large-scale dataset, encompassing up to 18 trillion tokens. The model supports up to 128K tokens and has multilingual support.
+qwen2.5-coder,0.5b,,5500000,2025-05-28,The latest series of Code-Specific Qwen models, with significant improvements in code generation, code reasoning, and code fixing.
+qwen2.5-coder,1.5b,,5500000,2025-05-28,The latest series of Code-Specific Qwen models, with significant improvements in code generation, code reasoning, and code fixing.
+qwen2.5-coder,3b,,5500000,2025-05-28,The latest series of Code-Specific Qwen models, with significant improvements in code generation, code reasoning, and code fixing.
+qwen2.5-coder,7b,,5500000,2025-05-28,The latest series of Code-Specific Qwen models, with significant improvements in code generation, code reasoning, and code fixing.
+qwen2.5-coder,14b,,5500000,2025-05-28,The latest series of Code-Specific Qwen models, with significant improvements in code generation, code reasoning, and code fixing.
+qwen2.5-coder,32b,,5500000,2025-05-28,The latest series of Code-Specific Qwen models, with significant improvements in code generation, code reasoning, and code fixing.
+qwen2.5vl,3b,,255900,2025-05-28,Flagship vision-language model of Qwen and also a significant leap from the previous Qwen2-VL.
+qwen2.5vl,7b,,255900,2025-05-28,Flagship vision-language model of Qwen and also a significant leap from the previous Qwen2-VL.
+qwen2.5vl,32b,,255900,2025-05-28,Flagship vision-language model of Qwen and also a significant leap from the previous Qwen2-VL.
+qwen2.5vl,72b,,255900,2025-05-28,Flagship vision-language model of Qwen and also a significant leap from the previous Qwen2-VL.
+qwen3,0.6b,,1900000,2025-05-29,Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models.
+qwen3,1.7b,,1900000,2025-05-29,Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models.
+qwen3,4b,,1900000,2025-05-29,Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models.
+qwen3,8b,,1900000,2025-05-29,Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models.
+qwen3,14b,,1900000,2025-05-29,Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models.
+qwen3,30b,,1900000,2025-05-29,Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models.
+qwen3,32b,,1900000,2025-05-29,Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models.
+qwen3,235b,,1900000,2025-05-29,Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models.
+qwq,32b,,1500000,2025-04-05,QwQ is the reasoning model of the Qwen series.
+r1-1776,70b,,38400,2025-03-06,A version of the DeepSeek-R1 model that has been post trained to provide unbiased, accurate, and factual information by Perplexity.
+r1-1776,671b,,38400,2025-03-06,A version of the DeepSeek-R1 model that has been post trained to provide unbiased, accurate, and factual information by Perplexity.
+reader-lm,0.5b,,40300,2024-10-07,A series of models that convert HTML content to Markdown content, which is useful for content conversion tasks.
+reader-lm,1.5b,,40300,2024-10-07,A series of models that convert HTML content to Markdown content, which is useful for content conversion tasks.
+reflection,70b,,105900,2024-10-07,A high-performing model trained with a new technique called Reflection-tuning that teaches a LLM to detect mistakes in its reasoning and correct course.
+sailor2,1b,,12200,2024-12-06,Sailor2 are multilingual language models made for South-East Asia. Available in 1B, 8B, and 20B parameter sizes.
+sailor2,8b,,12200,2024-12-06,Sailor2 are multilingual language models made for South-East Asia. Available in 1B, 8B, and 20B parameter sizes.
+sailor2,20b,,12200,2024-12-06,Sailor2 are multilingual language models made for South-East Asia. Available in 1B, 8B, and 20B parameter sizes.
+samantha-mistral,7b,,94300,2025-06-04,A companion assistant trained in philosophy, psychology, and personal relationships. Based on Mistral.
+shieldgemma,2b,,41700,2024-11-06,ShieldGemma is set of instruction tuned models for evaluating the safety of text prompt input and text output responses against a set of defined safety policies.
+shieldgemma,9b,,41700,2024-11-06,ShieldGemma is set of instruction tuned models for evaluating the safety of text prompt input and text output responses against a set of defined safety policies.
+shieldgemma,27b,,41700,2024-11-06,ShieldGemma is set of instruction tuned models for evaluating the safety of text prompt input and text output responses against a set of defined safety policies.
+smallthinker,3b,,59200,2025-01-05,A new small reasoning model fine-tuned from the Qwen 2.5 3B Instruct model.
+smollm,135m,,273600,2024-09-07,🪐 A family of small models with 135M, 360M, and 1.7B parameters, trained on a new high-quality dataset.
+smollm,360m,,273600,2024-09-07,🪐 A family of small models with 135M, 360M, and 1.7B parameters, trained on a new high-quality dataset.
+smollm,1.7b,,273600,2024-09-07,🪐 A family of small models with 135M, 360M, and 1.7B parameters, trained on a new high-quality dataset.
+smollm2,135m,,877400,2024-11-06,SmolLM2 is a family of compact language models available in three size: 135M, 360M, and 1.7B parameters.
+smollm2,360m,,877400,2024-11-06,SmolLM2 is a family of compact language models available in three size: 135M, 360M, and 1.7B parameters.
+smollm2,1.7b,,877400,2024-11-06,SmolLM2 is a family of compact language models available in three size: 135M, 360M, and 1.7B parameters.
+snowflake-arctic-embed,22m,,739100,2025-06-04,A suite of text embedding models by Snowflake, optimized for performance.
+snowflake-arctic-embed,33m,,739100,2025-06-04,A suite of text embedding models by Snowflake, optimized for performance.
+snowflake-arctic-embed,110m,,739100,2025-06-04,A suite of text embedding models by Snowflake, optimized for performance.
+snowflake-arctic-embed,137m,,739100,2025-06-04,A suite of text embedding models by Snowflake, optimized for performance.
+snowflake-arctic-embed,335m,,739100,2025-06-04,A suite of text embedding models by Snowflake, optimized for performance.
+snowflake-arctic-embed2,568m,,86400,2024-12-06,Snowflake's frontier embedding model. Arctic Embed 2.0 adds multilingual support without sacrificing English performance or scalability.
+solar,10.7b,,82400,2025-06-04,A compact, yet powerful 10.7B large language model designed for single-turn conversation.
+solar-pro,22b,,36900,2024-10-07,Solar Pro Preview: an advanced large language model (LLM) with 22 billion parameters designed to fit into a single GPU
+sqlcoder,7b,,106500,2025-06-04,SQLCoder is a code completion model fined-tuned on StarCoder for SQL generation tasks
+sqlcoder,15b,,106500,2025-06-04,SQLCoder is a code completion model fined-tuned on StarCoder for SQL generation tasks
+stable-beluga,7b,,60800,2025-06-04,Llama 2 based model fine tuned on an Orca-style dataset. Originally called Free Willy.
+stable-beluga,13b,,60800,2025-06-04,Llama 2 based model fine tuned on an Orca-style dataset. Originally called Free Willy.
+stable-beluga,70b,,60800,2025-06-04,Llama 2 based model fine tuned on an Orca-style dataset. Originally called Free Willy.
+stable-code,3b,,132900,2025-06-04,Stable Code 3B is a coding model with instruct and code completion variants on par with models such as Code Llama 7B that are 2.5x larger.
+stablelm-zephyr,3b,,39300,2025-06-04,A lightweight chat model allowing accurate, and responsive output without requiring high-end hardware.
+stablelm2,1.6b,,114300,2025-06-04,Stable LM 2 is a state-of-the-art 1.6B and 12B parameter language model trained on multilingual data in English, Spanish, German, Italian, French, Portuguese, and Dutch.
+stablelm2,12b,,114300,2025-06-04,Stable LM 2 is a state-of-the-art 1.6B and 12B parameter language model trained on multilingual data in English, Spanish, German, Italian, French, Portuguese, and Dutch.
+starcoder,1b,,199600,2025-06-04,StarCoder is a code generation model trained on 80+ programming languages.
+starcoder,3b,,199600,2025-06-04,StarCoder is a code generation model trained on 80+ programming languages.
+starcoder,7b,,199600,2025-06-04,StarCoder is a code generation model trained on 80+ programming languages.
+starcoder,15b,,199600,2025-06-04,StarCoder is a code generation model trained on 80+ programming languages.
+starcoder2,3b,,965600,2024-09-07,StarCoder2 is the next generation of transparently trained open code LLMs that comes in three sizes: 3B, 7B and 15B parameters.
+starcoder2,7b,,965600,2024-09-07,StarCoder2 is the next generation of transparently trained open code LLMs that comes in three sizes: 3B, 7B and 15B parameters.
+starcoder2,15b,,965600,2024-09-07,StarCoder2 is the next generation of transparently trained open code LLMs that comes in three sizes: 3B, 7B and 15B parameters.
+starling-lm,7b,,85900,2025-06-04,Starling is a large language model trained by reinforcement learning from AI feedback focused on improving chatbot helpfulness.
+tinydolphin,1.1b,,130000,2025-06-04,An experimental 1.1B parameter model trained on the new Dolphin 2.8 dataset by Eric Hartford and based on TinyLlama.
+tinyllama,1.1b,,1900000,2025-06-04,The TinyLlama project is an open endeavor to train a compact 1.1B Llama model on 3 trillion tokens.
+tulu3,8b,,26600,2025-01-05,Tülu 3 is a leading instruction following model family, offering fully open-source data, code, and recipes by the The Allen Institute for AI.
+tulu3,70b,,26600,2025-01-05,Tülu 3 is a leading instruction following model family, offering fully open-source data, code, and recipes by the The Allen Institute for AI.
+vicuna,7b,,182900,2025-06-04,General use chat model based on Llama and Llama 2 with 2K to 16K context sizes.
+vicuna,13b,,182900,2025-06-04,General use chat model based on Llama and Llama 2 with 2K to 16K context sizes.
+vicuna,33b,,182900,2025-06-04,General use chat model based on Llama and Llama 2 with 2K to 16K context sizes.
+wizard-math,7b,,104900,2025-06-04,Model focused on math and logic problems
+wizard-math,13b,,104900,2025-06-04,Model focused on math and logic problems
+wizard-math,70b,,104900,2025-06-04,Model focused on math and logic problems
+wizard-vicuna,13b,,31000,2025-06-04,Wizard Vicuna is a 13B parameter model based on Llama 2 trained by MelodysDreamj.
+wizard-vicuna-uncensored,7b,,205000,2025-06-04,Wizard Vicuna Uncensored is a 7B, 13B, and 30B parameter model based on Llama 2 uncensored by Eric Hartford.
+wizard-vicuna-uncensored,13b,,205000,2025-06-04,Wizard Vicuna Uncensored is a 7B, 13B, and 30B parameter model based on Llama 2 uncensored by Eric Hartford.
+wizard-vicuna-uncensored,30b,,205000,2025-06-04,Wizard Vicuna Uncensored is a 7B, 13B, and 30B parameter model based on Llama 2 uncensored by Eric Hartford.
+wizardcoder,33b,,125500,2025-06-04,State-of-the-art code generation model
+wizardlm-uncensored,13b,,66600,2025-06-04,Uncensored version of Wizard LM model
+wizardlm2,7b,,369400,2025-06-04,State of the art large language model from Microsoft AI with improved performance on complex chat, multilingual, reasoning and agent use cases.
+wizardlm2,8x22b,,369400,2025-06-04,State of the art large language model from Microsoft AI with improved performance on complex chat, multilingual, reasoning and agent use cases.
+xwinlm,7b,,86600,2025-06-04,Conversational model based on Llama 2 that performs competitively on various benchmarks.
+xwinlm,13b,,86600,2025-06-04,Conversational model based on Llama 2 that performs competitively on various benchmarks.
+yarn-llama2,7b,,81100,2025-06-04,An extension of Llama 2 that supports a context of up to 128k tokens.
+yarn-llama2,13b,,81100,2025-06-04,An extension of Llama 2 that supports a context of up to 128k tokens.
+yarn-mistral,7b,,46700,2025-06-04,An extension of Mistral to support context windows of 64K or 128K.
+yi,6b,,280000,2025-06-04,Yi 1.5 is a high-performing, bilingual language model.
+yi,9b,,280000,2025-06-04,Yi 1.5 is a high-performing, bilingual language model.
+yi,34b,,280000,2025-06-04,Yi 1.5 is a high-performing, bilingual language model.
+yi-coder,1.5b,,83800,2024-10-07,Yi-Coder is a series of open-source code language models that delivers state-of-the-art coding performance with fewer than 10 billion parameters.
+yi-coder,9b,,83800,2024-10-07,Yi-Coder is a series of open-source code language models that delivers state-of-the-art coding performance with fewer than 10 billion parameters.
+zephyr,7b,,268400,2025-06-04,Zephyr is a series of fine-tuned versions of the Mistral and Mixtral models that are trained to act as helpful assistants.
+zephyr,141b,,268400,2025-06-04,Zephyr is a series of fine-tuned versions of the Mistral and Mixtral models that are trained to act as helpful assistants.
